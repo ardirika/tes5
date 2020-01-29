@@ -1,0 +1,669 @@
+#EXTM3U
+#EXTINF:0,SP: La 1 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1361
+#EXTINF:0,SP: La 2 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1362
+#EXTINF:0,SP: Antena 3 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1363
+#EXTINF:0,SP: Cuatro HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1364
+#EXTINF:0,SP: Telecinco HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1365
+#EXTINF:0,SP: La Sexta HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1366
+#EXTINF:0,SP: #0 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1367
+#EXTINF:0,SP: Movistar Estrenos HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1390
+#EXTINF:0,SP: Movistar Accion HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1386
+#EXTINF:0,SP: Movistar Comedia HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1392
+#EXTINF:0,SP: Movistar Drama HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1391
+#EXTINF:0,SP: Movistar CineDoc&Roll HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1387
+#EXTINF:0,SP: MOVISTAR DCine Ã‘
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1393
+#EXTINF:0,SP: Movistar Disney
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1394
+#EXTINF:0,SP: Movistar Series HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1388
+#EXTINF:0,SP: Movistar Series Mania HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1389
+#EXTINF:0,SP: AMC HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1379
+#EXTINF:0,SP: Fox HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1368
+#EXTINF:0,SP: Fox Life HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1369
+#EXTINF:0,SP: AXN HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1370
+#EXTINF:0,SP: AXN White HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1371
+#EXTINF:0,SP: SyFy HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1372
+#EXTINF:0,SP: Calle 13 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1373
+#EXTINF:0,SP: TCM HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1374
+#EXTINF:0,SP: TNT HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1432
+#EXTINF:0,SP: Hollywood HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1384
+#EXTINF:0,SP: PARAMOUNT CHANNEL
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1385
+#EXTINF:0,SP: Comedy Central HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1382
+#EXTINF:0,SP: Cosmo HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1375
+#EXTINF:0,SP: DARK HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3908
+#EXTINF:0,SP: FDF
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1377
+#EXTINF:0,SP: NEOX
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1378
+#EXTINF:0,SP: A3SERIES HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1383
+#EXTINF:0,SP: BE MAD HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1380
+#EXTINF:0,SP: ENERGY
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1376
+#EXTINF:0,SP: MEGA HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1381
+#EXTINF:0,SP: DIVINITY
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1435
+#EXTINF:0,SP: NOVA
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1436
+#EXTINF:0,SP: TEN
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1438
+#EXTINF:0,SP: MOVISTAR TOROS HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1395
+#EXTINF:0,SP: Toros TV HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1441
+#EXTINF:0,SP: National Geographic FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1413
+#EXTINF:0,SP: NAT GEO WILD HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1414
+#EXTINF:0,SP: HISTORIA HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1418
+#EXTINF:0,SP: DISCOVERY HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1419
+#EXTINF:0,SP: Odisea
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1437
+#EXTINF:0,SP: Caza y Pesca HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1415
+#EXTINF:0,SP: Viajar HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1416
+#EXTINF:0,SP: CRIMEN + INVESTIGACION
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1417
+#EXTINF:0,SP: BLAZE
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1431
+#EXTINF:0,SP: CANAL COCINA HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1420
+#EXTINF:0,SP: GARAGE TV HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3933
+#EXTINF:0,SP: DECASA HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1421
+#EXTINF:0,SP: BOING
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1422
+#EXTINF:0,SP: NICK JR
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1423
+#EXTINF:0,SP: NICKELODEON HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1424
+#EXTINF:0,SP: DISNEY XD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1425
+#EXTINF:0,SP: DISNEY JR
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1426
+#EXTINF:0,SP: Disney Channel HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1427
+#EXTINF:0,SP: CLAN HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1428
+#EXTINF:0,SP: BABY TV
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1429
+#EXTINF:0,SP: Canal PANDA
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1430
+#EXTINF:0,SP: SUNDANCE HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1433
+#EXTINF:0,SP: DKISS
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1434
+#EXTINF:0,SP: VH1
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3937
+#EXTINF:0,SP: Mezzo FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3935
+#EXTINF:0,SP: MTV ESP
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1440
+#EXTINF:0,SP: Movistar Vamos HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1398
+#EXTINF:0,SP: La Liga TV Bar HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1397
+#EXTINF:0,SP: MOVISTAR LA LIGA HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1396
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1399
+#EXTINF:0,SP: Movistar Deportes  HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1401
+#EXTINF:0,SP: Movistar Futbol HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1402
+#EXTINF:0,SP: Movistar Golf HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1403
+#EXTINF:0,SP: Movistar Formula 1 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1404
+#EXTINF:0,SP: Dazn ( Solo Eventos )
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1485
+#EXTINF:0,SP: Dazn 2 (Solo Eventos) 
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1442
+#EXTINF:0,SP: EUROSPORT 1 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1405
+#EXTINF:0,SP: EUROSPORT 2
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1406
+#EXTINF:0,SP: TELEDEPORTE HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1407
+#EXTINF:0,SP: REAL MADRID TV
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1408
+#EXTINF:0,SP: Barca TV
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1410
+#EXTINF:0,SP: Real Betis TV
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1484
+#EXTINF:0,SP: GOL TV
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1411
+#EXTINF:0,SP: Canal Sur Turismo
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1472
+#EXTINF:0,SP: Canal Sur Andalucia HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1439
+#EXTINF:0,SP: Aragón TV
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1473
+#EXTINF:0,SP: TELEMADRID HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1409
+#EXTINF:0,SP: INTERECONOMIA
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3934
+#EXTINF:0,SP: 24 Horas
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1412
+#EXTINF:0,SP: Esport 3
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3930
+#EXTINF:0,SP: ETBSAT
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3931
+#EXTINF:0,SP: Galicia TV HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3932
+#EXTINF:0,SP: Canal 33 Madrid
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1474
+#EXTINF:0,SP: El Correo de Andalucia
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1475
+#EXTINF:0,SP: Onda Cádiz
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1476
+#EXTINF:0,SP: RTPA Asturias
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1477
+#EXTINF:0,SP: TV Municipal Cordoba
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1478
+#EXTINF:0,SP: Canal Málaga
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1479
+#EXTINF:0,SP: Canal San Roque
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1480
+#EXTINF:0,SP: Canal Sur Flamenco
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1481
+#EXTINF:0,SP: Canal Sur La Banda
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1482
+#EXTINF:0,SP: 7 Murcia
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1483
+#EXTINF:0,SP: Multi deporte
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3936
+#EXTINF:0,SP: MOVISTAR LA LIGA 1 FHD (1080P)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1460
+#EXTINF:0,SP: MOVISTAR LA LIGA 1
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1461
+#EXTINF:0,SP: MOVISTAR LA LIGA 2 FHD (1080P)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1462
+#EXTINF:0,SP: MOVISTAR LALIGA 2
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1463
+#EXTINF:0,SP: MOVISTAR LA LIGA 3
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1464
+#EXTINF:0,SP: MOVISTAR LA LIGA 4
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1465
+#EXTINF:0,SP: MOVISTAR LA LIGA 5
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1466
+#EXTINF:0,SP: MOVISTAR LA LIGA 6
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1467
+#EXTINF:0,SP: MOVISTAR LA LIGA 7
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1468
+#EXTINF:0,SP: MOVISTAR LA LIGA 8
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1469
+#EXTINF:0,SP: MOVISTAR LA LIGA 9
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1470
+#EXTINF:0,SP: MOVISTAR LA LIGA 10
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1471
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 1 FHD (1080P)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1450
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 1
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1451
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 2 FHD (1080P)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1452
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 2 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1400
+#EXTINF:0,SP: MOVISTAR LIGA DE CAMPEONES 2
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1453
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 3 EspaÃ±a
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1454
+#EXTINF:0,SP: MOVISTAR LIGA DE CAMPEONES 4
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1455
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 5
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1456
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 6
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1457
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 7
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1458
+#EXTINF:0,SP: MOVISTAR LIGA CAMPEONES 8
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1459
+#EXTINF:0,SP: Movistar DEPORTE 1 (SOLO EVENTOS)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1443
+#EXTINF:0,SP: Movistar DEPORTE 2 (SOLO EVENTOS)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1444
+#EXTINF:0,SP: Movistar DEPORTE 3 (SOLO EVENTOS)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1445
+#EXTINF:0,SP: Movistar DEPORTE 4 (SOLO EVENTOS)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1446
+#EXTINF:0,SP: Movistar DEPORTE 5 (SOLO EVENTOS)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1447
+#EXTINF:0,SP: Movistar DEPORTE 6 (SOLO EVENTOS)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1448
+#EXTINF:0,SP: Movistar DEPORTE 7 (SOLO EVENTOS)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1449
+#EXTINF:0,SP: Alquiler Presentation
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3929
+#EXTINF:0,SP: Alquiler 1 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3909
+#EXTINF:0,SP: Alquiler 2 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3910
+#EXTINF:0,SP: Alquiler 3 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3911
+#EXTINF:0,SP: Alquiler 4 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3912
+#EXTINF:0,SP: Alquiler 5 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3913
+#EXTINF:0,SP: Alquiler 6 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3914
+#EXTINF:0,SP: Alquiler 7 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3915
+#EXTINF:0,SP: Alquiler 8 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3916
+#EXTINF:0,SP: Alquiler 9 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3917
+#EXTINF:0,SP: Alquiler 10 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3918
+#EXTINF:0,SP: Alquiler 11 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3919
+#EXTINF:0,SP: Alquiler 12 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3920
+#EXTINF:0,SP: Alquiler 13 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3921
+#EXTINF:0,SP: Alquiler 14 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3922
+#EXTINF:0,SP: Alquiler 15 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3923
+#EXTINF:0,SP: Alquiler 16 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3924
+#EXTINF:0,SP: Alquiler 17 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3925
+#EXTINF:0,SP: Alquiler 18 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3926
+#EXTINF:0,SP: Alquiler Multivision 1 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3927
+#EXTINF:0,SP: Alquiler Multivision 2 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3928
+#EXTINF:0,NBA League Pass 01 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1640
+#EXTINF:0,NBA League Pass 02 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1639
+#EXTINF:0,NBA League Pass 03 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1638
+#EXTINF:0,NBA League Pass 04 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1637
+#EXTINF:0,NBA League Pass 05 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1636
+#EXTINF:0,NBA League Pass 06  HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1635
+#EXTINF:0,NBA League Pass 07  HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1634
+#EXTINF:0,NBA League Pass 08 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1633
+#EXTINF:0,NBA League Pass 09 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1632
+#EXTINF:0,NBA League Pass 10 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1631
+#EXTINF:0,NBA League Pass 11 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1630
+#EXTINF:0,NBA League Pass 12 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1629
+#EXTINF:0,NBA League Pass 13 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1628
+#EXTINF:0,NBA League Pass 14 HD US
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1627
+#EXTINF:0,Live Events UFC Fight Pass HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1651
+#EXTINF:0,01 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1650
+#EXTINF:0,02 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1649
+#EXTINF:0,03 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1648
+#EXTINF:0,04 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1647
+#EXTINF:0,05 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1646
+#EXTINF:0,06 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1645
+#EXTINF:0,07 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1644
+#EXTINF:0,08 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1643
+#EXTINF:0,09 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1642
+#EXTINF:0,10 | UFC Fight Pass [Events Only]
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1641
+#EXTINF:0,NFL Gamepass channel guide (CEST)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1684
+#EXTINF:0,NFL Gamepass 1
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1683
+#EXTINF:0,NFL Gamepass 10
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1674
+#EXTINF:0,NFL Gamepass 11
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1673
+#EXTINF:0,NFL Gamepass 12
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1672
+#EXTINF:0,NFL Gamepass 13
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1671
+#EXTINF:0,NFL Gamepass 14
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1670
+#EXTINF:0,NFL Gamepass 15
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1669
+#EXTINF:0,NFL Gamepass 16
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1668
+#EXTINF:0,NFL Gamepass 2
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1682
+#EXTINF:0,NFL Gamepass 3
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1681
+#EXTINF:0,NFL Gamepass 4
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1680
+#EXTINF:0,NFL Gamepass 5
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1679
+#EXTINF:0,NFL Gamepass 6
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1678
+#EXTINF:0,NFL Gamepass 7
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1677
+#EXTINF:0,NFL Gamepass 8
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1676
+#EXTINF:0,NFL Gamepass 9
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1675
+#EXTINF:0,NHL Gamepass channel guide (CEST)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1667
+#EXTINF:0,NHL Gamepass 1
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1666
+#EXTINF:0,NHL Gamepass 10
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1652
+#EXTINF:0,NHL Gamepass 11
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1653
+#EXTINF:0,NHL Gamepass 12
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1654
+#EXTINF:0,NHL Gamepass 13
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1655
+#EXTINF:0,NHL Gamepass 14
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1656
+#EXTINF:0,NHL Gamepass 15
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1657
+#EXTINF:0,NHL Gamepass 2
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1665
+#EXTINF:0,NHL Gamepass 3
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1664
+#EXTINF:0,NHL Gamepass 4
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1663
+#EXTINF:0,NHL Gamepass 5
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1662
+#EXTINF:0,NHL Gamepass 6
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1661
+#EXTINF:0,NHL Gamepass 7
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1660
+#EXTINF:0,NHL Gamepass 8
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1659
+#EXTINF:0,NHL Gamepass 9
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1658
+#EXTINF:0,MLB Gamepass channel guide (CEST)
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1700
+#EXTINF:0,MLB Gamepass 1
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1699
+#EXTINF:0,MLB Gamepass 10
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1690
+#EXTINF:0,MLB Gamepass 11
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1689
+#EXTINF:0,MLB Gamepass 12
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1688
+#EXTINF:0,MLB Gamepass 13
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1687
+#EXTINF:0,MLB Gamepass 14
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1686
+#EXTINF:0,MLB Gamepass 15
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1685
+#EXTINF:0,MLB Gamepass 2
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1698
+#EXTINF:0,MLB Gamepass 3
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1697
+#EXTINF:0,MLB Gamepass 4
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1696
+#EXTINF:0,MLB Gamepass 5     
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1695
+#EXTINF:0,MLB Gamepass 6
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1694
+#EXTINF:0,MLB Gamepass 7
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1693
+#EXTINF:0,MLB Gamepass 8
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1692
+#EXTINF:0,MLB Gamepass 9
+http://www.bbip.tv:8080/x026/yI8duwkIA4/1691
+#EXTINF:0,AR: beIN Soprt HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3399
+#EXTINF:0,AR: beIN Sports 1 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3400
+#EXTINF:0,AR: beIN Sports 2 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3401
+#EXTINF:0,AR: beIN Sports 3 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3402
+#EXTINF:0,AR: beIN Sports 4 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3403
+#EXTINF:0,AR: beIN Sports 5 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3404
+#EXTINF:0,AR: beIN Sports 6 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3405
+#EXTINF:0,AR: beIN Sports 7 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3406
+#EXTINF:0,AR: beIN Sports 8 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3407
+#EXTINF:0,AR: beIN Sports 9 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3408
+#EXTINF:0,AR: beIN Sports 1 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3409
+#EXTINF:0,AR: beIN Sports 1 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3410
+#EXTINF:0,AR: beIN Sports 10 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3411
+#EXTINF:0,AR: beIN Sports 11 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3412
+#EXTINF:0,AR: beIN Sports 12 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3413
+#EXTINF:0,AR: beIN Sports 13 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3414
+#EXTINF:0,AR: beIN Sports 14 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3415
+#EXTINF:0,AR: beIN Sports 15 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3416
+#EXTINF:0,AR: beIN Sports 16 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3417
+#EXTINF:0,AR: beIN Sports 2 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3418
+#EXTINF:0,AR: beIN Sports 2 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3419
+#EXTINF:0,AR: beIN Sports 3 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3420
+#EXTINF:0,AR: beIN Sports 3 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3421
+#EXTINF:0,AR: beIN Sports 4 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3422
+#EXTINF:0,AR: beIN Sports 4 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3423
+#EXTINF:0,AR: beIN Sports 5 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3424
+#EXTINF:0,AR: beIN Sports 5 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3425
+#EXTINF:0,AR: beIN Sports 6 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3426
+#EXTINF:0,AR: beIN Sports 6 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3427
+#EXTINF:0,AR: beIN Sports 7 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3428
+#EXTINF:0,AR: beIN Sports 7 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3429
+#EXTINF:0,AR: beIN Sports 8 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3430
+#EXTINF:0,AR: beIN Sports 8 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3431
+#EXTINF:0,AR: beIN Sports 9 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3432
+#EXTINF:0,AR: beIN Sports 9 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3433
+#EXTINF:0,AR: beIN Sports FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3434
+#EXTINF:0,AR: beIN Sports FHD6
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3435
+#EXTINF:0,AR: beIN Sports 10 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3436
+#EXTINF:0,AR: beIN Sports 10 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3437
+#EXTINF:0,AR: beIN Sports 11 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3438
+#EXTINF:0,AR: beIN Sports 11 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3439
+#EXTINF:0,AR: beIN Sports 12 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3440
+#EXTINF:0,AR: beIN Sports 12 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3441
+#EXTINF:0,AR: beIN Sports 13 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3442
+#EXTINF:0,AR: beIN Sports 13 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3443
+#EXTINF:0,AR: beIN Sports 14 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3444
+#EXTINF:0,AR: beIN Sports 14 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3445
+#EXTINF:0,AR: beIN Sports 15 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3446
+#EXTINF:0,AR: beIN Sports 16 HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3447
+#EXTINF:0,AR: beIN Sports Fatafeat
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3448
+#EXTINF:0,AR: beIN Sports GLOBAL
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3449
+#EXTINF:0,AR: beIN Sports GLOBAL HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3450
+#EXTINF:0,AR: beIN Sports Groummet
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3451
+#EXTINF:0,AR: beIN Sports HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3452
+#EXTINF:0,AR: beIN Sports Max 1
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3453
+#EXTINF:0,AR: beIN Sports Max 2
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3454
+#EXTINF:0,AR: beIN Sports Max 4
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3455
+#EXTINF:0,AR: beIN Sports Max 5
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3456
+#EXTINF:0,AR: beIN Sports Max 6
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3457
+#EXTINF:0,AR: beIN Sports Max 7
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3458
+#EXTINF:0,AR: beIN Sports Max 8
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3459
+#EXTINF:0,AR: beIN Sports Max 9
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3460
+#EXTINF:0,AR: beIN Sports Max 10
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3461
+#EXTINF:0,AR: beIN Sports NBA HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3462
+#EXTINF:0,AR: beIN Sports News HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3463
+#EXTINF:0,AR: beIN Sports NEWS HEVC
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3464
+#EXTINF:0,AR: beIN Sports Outdoor
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3465
+#EXTINF:0,AR: beIN Sportss 1 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3466
+#EXTINF:0,FR: beIN Sports 1 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3467
+#EXTINF:0,FR: beIN Sports 2 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3468
+#EXTINF:0,FR: beIN Sports 3 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3469
+#EXTINF:0,FR: beIN Sports 1 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3470
+#EXTINF:0,FR: beIN Sports 2 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3471
+#EXTINF:0,FR: beIN Sports 3 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3472
+#EXTINF:0,FR: beIN Sports 4 MAX
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3473
+#EXTINF:0,FR: beIN Sports 5
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3474
+#EXTINF:0,FR: beIN Sports 5 MAX
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3475
+#EXTINF:0,FR: beIN Sports 6
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3476
+#EXTINF:0,FR: beIN Sports 6 MAX
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3477
+#EXTINF:0,FR: beIN Sports 7
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3478
+#EXTINF:0,FR: beIN Sports 7 MAX HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3479
+#EXTINF:0,FR: beIN Sports 8
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3480
+#EXTINF:0,FR: beIN Sports 8 MAX
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3481
+#EXTINF:0,FR: beIN Sports 9
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3482
+#EXTINF:0,FR: beIN Sports 9 MAX
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3483
+#EXTINF:0,FR: beIN Sports 10
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3484
+#EXTINF:0,FR: beIN Sports 10 MAX
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3485
+#EXTINF:0,FR: beIN Sports Max 1
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3486
+#EXTINF:0,FR: beIN Sports Max 4 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3487
+#EXTINF:0,FR: beIN Sports Max 5 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3488
+#EXTINF:0,FR: beIN Sports Max 6 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3489
+#EXTINF:0,FR: beIN Sports Max 7 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3490
+#EXTINF:0,FR: beIN Sports Max 8 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3491
+#EXTINF:0,FR: beIN Sports Max 9 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3492
+#EXTINF:0,FR: beIN Sports Max 10 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3493
+#EXTINF:0,FR: beINS PORT 2 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3494
+#EXTINF:0,TR: beIN sport
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3495
+#EXTINF:0,TR: beIN Sports 1 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3496
+#EXTINF:0,TR: beIN Sports 2 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3497
+#EXTINF:0,TR: beIN Sports 3 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3498
+#EXTINF:0,TR: beIN Sports 4 FHD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3499
+#EXTINF:0,TR: beIN Sports 1 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3500
+#EXTINF:0,TR: beIN Sports 2 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3501
+#EXTINF:0,TR: beIN Sports 3 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3502
+#EXTINF:0,TR: beIN Sports 4 HD
+http://www.bbip.tv:8080/x026/yI8duwkIA4/3503
