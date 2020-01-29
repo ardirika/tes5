@@ -400,7 +400,7 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_e
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Crime Investigation" tvg-logo="" group-title="MOVIE TV",Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+#https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="K Plus" tvg-logo="#https://www.infotelevisi.com/asset/images/tv/k_plus.jpg" group-title="MOVIE TV",K Plus
 #http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
