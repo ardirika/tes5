@@ -133,6 +133,9 @@ https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1
 #EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRl9nzI9mhwQuFBYPd5eSD7OzRYefzL2E6qUc-vI2UuBkyu5zTb" group-title="Indonesia TV",ZEE BIOSKOP 2
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
+#EXTINF:-1 tvg-ID="" tvg-name="CITRA DRAMA" tvg-logo="https://i.postimg.cc/YqBNqvQG/citra-dramat-plus-channel-logo.png" group-title="Indonesia TV",Citra drama
+https://etslive-2-vidio-com.akamaized.net/exp=1580395465~acl=/hls-b/ingest_geo_6401_*/*~hmac=365d618eae49ef3cc688195cbb58c41110c0254e6be484c9d995b49ed1b9833c/hls-b/ingest_geo_6401_720p/index.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="USEE PHOTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSt76QRANwY-S7-VSrqr4WrL6kv6L6Fpi3ftaZtNdviR2nB8_sa" group-title="Indonesia TV",USEE PHOTO
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
 
@@ -274,8 +277,8 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mo
 #EXTINF:-1 tvg-ID="" tvg-name="SPACETOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwN2qV4IMW9YDMgLOU70C24GeN8Ns2ykcseAgBXeZIiu8RwSwt" group-title="KIDS TV",SPACETOON
 http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="DISNY JUNIOR" tvg-logo="#https://tr.rbxcdn.com/fd9922dc0d00a13db5e56f3c08ad98ff/420/420/Decal/Png" group-title="KIDS TV",DISNEY JUNIOR 
-#http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HOREE" tvg-logo="https://i.postimg.cc/KYprZQ5x/download.png" group-title="KIDS TV",Horee
+https://etslive-2-vidio-com.akamaized.net/exp=1580395499~acl=/hls-b/ingest_geo_6397_*/*~hmac=55ea59a35a9b232b11e80f40a8538b21a5037895db766856142b6e8dec495601/hls-b/ingest_geo_6397_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="DISNYJUNIOR ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9moI73JDr9uUJvEF_3ytcdrGLUdLswEDNdBavyZKxR928iI2b" group-title="KIDS TV",DISNEYJUNIOR ID 
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -321,6 +324,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1 tvg-id="NATGEO" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13" group-title="KNOWLEDGE TV",NATGEO
 http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="https://i.postimg.cc/t4TsXbvn/images.png" group-title="MOVIE TV",FOX Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&amp;profile=pass
 
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="https://www.phdmedia.com/belgium/wp-content/uploads/sites/50/2015/05/fox-tv-logo-300x300.jpg" group-title="MOVIE TV",FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
@@ -503,6 +509,18 @@ https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southea
 #EXTINF:-1 tvg-ID="" tvg-name="KARAOKE CHANNEL" tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png" group-title="MUSIK TV",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="USEE SPORT 1" tvg-logo="https://i.postimg.cc/zvRHG6hn/images-1.jpg" group-title="SPORT TV",USEE SPORT 1
+https://edgejt6.useetv.com/joss/15/useesport/chunklist_w820764305_b1344100_sleng.m3u8?enc=wSrHzFKztEPeJjc1yQ4fTA&exp=1580326484
+
+#EXTINF:-1 tvg-ID="" tvg-name="USEE SPORT 2" tvg-logo="https://i.postimg.cc/KYgxHM68/images.jpg" group-title="SPORT TV",USEE SPORT 2
+https://cdnbpp1.useetv.com/joss/15/useesports2/chunklist_w1573499887_b1344100_sleng.m3u8?enc=bqaiQVjG_S0dwcAa6U1uuw&exp=1580326513
+
+#EXTINF:-1 tvg-ID="" tvg-name="CHAMPIONS 1" tvg-logo="https://i.postimg.cc/j2ChKRtv/20171115034617-Usee-TV.png" group-title="SPORT TV", CHAMPIONS 1
+https://etslive-2-vidio-com.akamaized.net/exp=1580395362~acl=/hls-p/ingest_geo_6685_*/*~hmac=9b531f5ac174297a12ebac25ec2793405e92da406d39b31a607d9f91562a88e3/hls-p/ingest_geo_6685_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CHAMPIONS 2" tvg-logo="https://i.postimg.cc/j2ChKRtv/20171115034617-Usee-TV.png" group-title="SPORT TV", CHAMPIONS 2
+https://etslive-2-vidio-com.akamaized.net/exp=1580395403~acl=/hls-p/ingest_geo_6686_*/*~hmac=db3d69e5f9a640076c290df143f4105030873b08b984b89954779a45d32e41d8/hls-p/ingest_geo_6686_720p/index.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="SPORT ILUSTRATED" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/5/5b/20171115034617%21UseeTV.png" group-title="SPORT TV",SPORT ILUSTRATED
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
 
@@ -521,7 +539,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_249996
 #EXTINF:-1 tvg-id="Fox Sports News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXtt9etMbyu5pvje_dNP32p-n8QYS2pzlSJCqvUX_Jx4e7FTww" group-title="SPORT TV",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:-1 tvg-id="FOX SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRqlXRft-7Y6Y806L2nO-j_F023DrQhvyvVVC_Fx81JzKcNJ03" group-title="SPORT TV",FOX SPORT
+#EXTINF:-1 tvg-id="FOX SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRqlXRft-7Y6Y806L2nO-j_F023DrQhvyvVVC_Fx81JzKcNJ03" group-title="SPORT TV",FOX SPORT 1
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
@@ -552,6 +570,12 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 #EXTINF:-1 tvg-id="FIGHT BOX" tvg-logo="https://image.roku.com/channels/images/91e7216f1f864ec88f812b0a49f1e38a-hd.jpg" group-title="SPORT TV",FightBox
 http://92.43.140.249/s86/04.m3u8
+
+#EXTINF:-1 tvg-id="ARENA SPORT 2" tvg-logo="https://i.postimg.cc/pTxBygtb/Arena-Sport-2.png" group-title="SPORT TV",Arena sport 2
+https://sport7.ws/lba/N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=/g8/arena2sport.m3u8?token=N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=&id=OTFmMDRiYWRkNzgyNjMyM2I2ZGI4ZjNjYzk3N2U2NGE=&vip=1571041635&dip=ZDM1MDc1YjAxMjk3ZGQwYjA2ZmM2OWE1MDNkNDA5ODY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
+
+#EXTINF:-1 tvg-id="ARENA SPORT 5" tvg-logo="https://i.postimg.cc/qqmsgqpW/Arena-Sport-5-Live-300x225.png" group-title="SPORT TV",Arena sport 5
+https://sport7.ws/lba/MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=/g7/ar5sport.m3u8?token=MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=&id=MzhlMDE2NWE0MDZjNDg0ZGQzMWU3N2FkYjU1MjA1NmM=&vip=1571042024&dip=ZjMxNTU0YWJhZTk0MWVjNTg3YmRlODNlMmE3NjQzYWM=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
 
 #EXTINF:-1 tvg-id="DSPORT" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/05/22/dsport.jpg?itok=rqs7_uJ-" group-title="SPORT TV",DSPORT
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
