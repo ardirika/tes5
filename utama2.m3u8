@@ -575,6 +575,9 @@ https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",TrueSport 7
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports
+https://raw.githubusercontent.com/ardirika/tes5/master/bein%20sport.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
