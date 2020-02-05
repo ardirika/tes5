@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ardirika/tes5/master/IMG_20200205_080951.jpg" ,Intro
+#EXTINF:-1 tvg-id="INTRO" tvg-logo=""https://raw.githubusercontent.com/ardirika/tes5/master/IMG_20200205_080951.jpg" group-title="INTRO",INTRO
 https://raw.githubusercontent.com:443/ardirika/tes5/master/intro.mp4
 
 #EXTM3U
