@@ -145,7 +145,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1580952050~acl=/hls-p/ingest_5409_
 https://etslive-2-vidio-com.akamaized.net/exp=1580952179~acl=/hls-p/ingest_6441_*/*~hmac=e49484e6bc5418d0d3a86449063a84a3e9e65695e69f63c6a4da0e2aeb243e36/hls-p/ingest_6441_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",ANTV
-https://iptv33.000webhostapp.com/Antv.m3u8
+https://iptv33.000webhostapp.com/Vidio%20Antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TVONE
 https://etslive-2-vidio-com.akamaized.net/exp=1580951595~acl=/hls-p/ingest_783_*/*~hmac=951f587c9a7dd6ade14cb53ff375c02ebd292ebce3a6f49767ffada50cb70735/hls-p/ingest_783_720p/index.m3u8
