@@ -112,7 +112,7 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 https://raw.githubusercontent.com/ardirika/tes5/master/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",MNC TV
-https://etslive-2-vidio-com.akamaized.net/exp=1580888477~acl=/hls-p/ingest_870_*/*~hmac=cea05eca02066bca2e1e5ba2fe0a5dacd20a3acfb2e77c7259e8b1f881b9b398/hls-p/ingest_870_720p/index.m3u8
+https://raw.githubusercontent.com/ardirika/tes5/master/MNC%20tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",GTV
 https://etslive-2-vidio-com.akamaized.net/exp=1580950876~acl=/hls-b/ingest_778_*/*~hmac=7f7d4f07aea28b848fb133e7fbbe9ba71bc8fd6e6431c80ae5b83b43c3fbeaba/hls-b/ingest_778_720p/index.m3u8
@@ -497,7 +497,7 @@ https://raw.githubusercontent.com/ardirika/tes5/master/bein%20sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 9
 https://raw.githubusercontent.com/ardirika/tes5/master/Bein%20sport%209.m3u8
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 5
 https://raw.githubusercontent.com/ardirika/tes5/master/Bein%20sport5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports 1
