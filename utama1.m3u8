@@ -61,7 +61,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1580927938~acl=/hls-p/ingest_777_*
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMQqtnKn/images-20.jpg" group-title="INDONESIA TV",ANTV 1
-https://cdn-livetv2.metube.id/hls/antv_480/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580888643~acl=/hls-p/ingest_782_*/*~hmac=7a170d179495635675aa12c07a9b9953347d77f3cdc625ac823afe0df0ced531/hls-p/ingest_782_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMQqtnKn/images-20.jpg" group-title="INDONESIA TV",ANTV 2
 https://anevia115.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
