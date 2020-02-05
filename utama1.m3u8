@@ -31,7 +31,7 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="SCTV 1" tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA TV",SCTV 1
-http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="SCTV 2" tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA TV",SCTV 2
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_98800_eng=5.m3u8
@@ -49,7 +49,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1580927763~acl=/hls-b/ingest_734_*
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="NET TV 1" tvg-logo="https://i.postimg.cc/y8YdR68j/images-16.jpg" group-title="INDONESIA TV",NET TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1580927651~acl=/hls-p/ingest_875_*/*~hmac=c679d7ad03c3f528ccadbf99aa47bc35833c638c88c058f2f7ae9f82445b87ba/hls-p/ingest_875_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1581014261~acl=/hls-p/ingest_875_*/*~hmac=cbbc52d8076773db5568fa6dcf9c2354bd4f6f7077109a38321cbdd04e6a9eaf/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="NET TV 2" tvg-logo="https://i.postimg.cc/y8YdR68j/images-16.jpg" group-title="INDONESIA TV",NET TV 2
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -61,7 +61,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1580927938~acl=/hls-p/ingest_777_*
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMQqtnKn/images-20.jpg" group-title="INDONESIA TV",ANTV 1
-http://id2.indostreamingtv.com/live/antv/index.m3u8?regieaerlays
+https://cdn-livetv2.metube.id/hls/antv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMQqtnKn/images-20.jpg" group-title="INDONESIA TV",ANTV 2
 https://anevia115.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
