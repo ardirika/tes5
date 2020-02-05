@@ -49,7 +49,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1580927763~acl=/hls-b/ingest_734_*
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="NET TV 1" tvg-logo="https://i.postimg.cc/y8YdR68j/images-16.jpg" group-title="INDONESIA TV",NET TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1581014261~acl=/hls-p/ingest_875_*/*~hmac=cbbc52d8076773db5568fa6dcf9c2354bd4f6f7077109a38321cbdd04e6a9eaf/hls-p/ingest_875_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580927651~acl=/hls-p/ingest_875_*/*~hmac=c679d7ad03c3f528ccadbf99aa47bc35833c638c88c058f2f7ae9f82445b87ba/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="NET TV 2" tvg-logo="https://i.postimg.cc/y8YdR68j/images-16.jpg" group-title="INDONESIA TV",NET TV 2
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
