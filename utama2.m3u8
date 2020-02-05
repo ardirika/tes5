@@ -109,7 +109,7 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1580872303~acl=/hls-p/ingest_665_*/*~hmac=12cbd6e80d42795cde4c9f59288e68f1d6728654561954c7d9db250d5f4dd5a4/hls-p/ingest_665_720p/index.m3u8
+https://raw.githubusercontent.com/ardirika/tes5/master/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",MNC TV
 https://etslive-2-vidio-com.akamaized.net/exp=1580888477~acl=/hls-p/ingest_870_*/*~hmac=cea05eca02066bca2e1e5ba2fe0a5dacd20a3acfb2e77c7259e8b1f881b9b398/hls-p/ingest_870_720p/index.m3u8
