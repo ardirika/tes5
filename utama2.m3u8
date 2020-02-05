@@ -494,12 +494,14 @@ https://raw.githubusercontent.com/ardirika/tes5/master/Bein%20sport%201.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 3
 https://raw.githubusercontent.com/ardirika/tes5/master/bein%20sport.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 9
+https://raw.githubusercontent.com/ardirika/tes5/master/Bein%20sport%209.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",FOX Sport 1
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
