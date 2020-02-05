@@ -163,31 +163,31 @@ https://etslive-2-vidio-com.akamaized.net/exp=1580951801~acl=/hls-b/ingest_874_*
 https://etslive-2-vidio-com.akamaized.net/exp=1580926525~acl=/hls-b/ingest_206_*/*~hmac=69429b5666eaed491dde1060c18d086a869683d4aa70f414091d73c86de9d1a3/hls-b/ingest_206_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Oshop
-https://etslive-2-vidio-com.akamaized.net/exp=1580889378~acl=/hls-p/ingest_6166_*/*~hmac=e8a81477a272880cdbe8af6e4564c0956e8b01ec707989bf06e2ef844bb3e9fd/hls-p/ingest_6166_720p/index.m3u8
+https://iptv33.000webhostapp.com/Oshop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",DAAI TV
-https://etslive-2-vidio-com.akamaized.net/exp=1580889565~acl=/hls-p/ingest_6482_*/*~hmac=c1ed18e1c19ce2f67d51b6e7422aa7a31d89621340cb963c1ee7dd4746bd4901/hls-p/ingest_6482_720p/index.m3u8
+https://iptv33.000webhostapp.com/Daaitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",MyTV
-https://etslive-2-vidio-com.akamaized.net/exp=1580889670~acl=/hls-p/ingest_6711_*/*~hmac=3447fe7bee850a80b07c0f4cbcc8af5d0b30ffca06a07590d6e169f183c6277a/hls-p/ingest_6711_720p/index.m3u8
+https://iptv33.000webhostapp.com/Mytv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Drama
 https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1580890264~acl=/hls-p/ingest_geo_6678_*/*~hmac=43b58dbec788433789f2c373113ca9d586bbd28cf9fadca2c3a446e001cdd77a/hls-p/ingest_geo_6678_720p/index.m3u8
+https://iptv33.000webhostapp.com/Citra%20Muslim.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1580889926~acl=/hls-b/ingest_geo_6684_*/*~hmac=b839c24e433438e528042d83ab8d9d295a67a1411884bd6cd722afce564d75ce/hls-b/ingest_geo_6684_720p/index.m3u8
+https://iptv33.000webhostapp.com/Citra%20bioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Dangdut
-https://etslive-2-vidio-com.akamaized.net/exp=1580890006~acl=/hls-b/ingest_geo_6587_*/*~hmac=eba94dfdafa8508000a9cf5a0f28027d992162a4fb590cdfecb1f122723d06d1/hls-b/ingest_geo_6587_720p/index.m3u8
+https://iptv33.000webhostapp.com/Citra%20dangdut.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Entertainment
-https://etslive-2-vidio-com.akamaized.net/exp=1580890092~acl=/hls-b/ingest_geo_6402_*/*~hmac=c23e5915c48b842031e1ec7bc25be471bcd220874ed6a65e5b042c7ac57a4fef/hls-b/ingest_geo_6402_720p/index.m3u8
+https://iptv33.000webhostapp.com/Citra%20Entertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",ZEE BIOSKOP
-https://etslive-2-vidio-com.akamaized.net/exp=1580952490~acl=/hls-p/ingest_geo_6399_*/*~hmac=04459f00db5918f058ab4446f16cf64cea9004f4e1bfe310162f9aa7766bbd15/hls-p/ingest_geo_6399_720p/index.m3u8
+https://iptv33.000webhostapp.com/Zee%20bioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",ZING
 https://etslive-2-vidio-com.akamaized.net/exp=1580952912~acl=/hls-p/ingest_geo_6747_*/*~hmac=6eac4dda1b753b8a8b225d1d685273cabca99130ab43370af3830b4ace64ec7c/hls-p/ingest_geo_6747_720p/index.m3u8
