@@ -124,52 +124,52 @@ https://raw.githubusercontent.com/ardirika/tes5/master/rcti.m3u8
 https://raw.githubusercontent.com/ardirika/tes5/master/MNC%20tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1580950876~acl=/hls-b/ingest_778_*/*~hmac=7f7d4f07aea28b848fb133e7fbbe9ba71bc8fd6e6431c80ae5b83b43c3fbeaba/hls-b/ingest_778_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20GTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1580951415~acl=/hls-b/ingest_205_*/*~hmac=437526f3322bf2409f14522fcd1adf5843b44e2f18be42058b6617ad71755c10/hls-b/ingest_205_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20Indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1580951497~acl=/hls-b/ingest_204_*/*~hmac=b7e1cda021f833da259cadc706130dbf25545b717284132f80f3bbb2d74ce947/hls-b/ingest_204_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20SCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TRANS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1580950963~acl=/hls-p/ingest_733_*/*~hmac=ac1901b996025eee549b1c1964ec2140c153cd7e459b7db881c9bde2a61f003d/hls-p/ingest_733_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20trans%20tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TRANS 7
-https://etslive-2-vidio-com.akamaized.net/exp=1580951205~acl=/hls-p/ingest_734_*/*~hmac=0aaeadb301dee5af93fd78cde57c00d29b8c4d3d79ccddd0e42ae33591c53426/hls-p/ingest_734_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20Trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",NET TV
-https://etslive-2-vidio-com.akamaized.net/exp=1580951329~acl=/hls-p/ingest_875_*/*~hmac=9966248cdb3aa57e63ac1362d67942e323eb4d4a5424f14f05c2af590a340c11/hls-p/ingest_875_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20net%20tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",RTV
-https://etslive-2-vidio-com.akamaized.net/exp=1580951917~acl=/hls-p/ingest_geo_1561_*/*~hmac=730ba30fde8582ff4dc784077acf1352e2d030e4df2fc4fa280eae2e6bb91ce2/hls-p/ingest_geo_1561_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20RTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",JAK TV
-https://etslive-2-vidio-com.akamaized.net/exp=1580951987~acl=/hls-p/ingest_5415_*/*~hmac=f150a331898f7974226996321e5436a8b5200173b59385ebc9d544538cf2a30e/hls-p/ingest_5415_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20JAKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",INEWS
-https://etslive-2-vidio-com.akamaized.net/exp=1580952050~acl=/hls-p/ingest_5409_*/*~hmac=cf8254860cc6ce4d8a52d88a72485909856252390f771246f0f3c7ac12a385ce/hls-p/ingest_5409_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20inews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TVRI
-https://etslive-2-vidio-com.akamaized.net/exp=1580952179~acl=/hls-p/ingest_6441_*/*~hmac=e49484e6bc5418d0d3a86449063a84a3e9e65695e69f63c6a4da0e2aeb243e36/hls-p/ingest_6441_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20TVRI.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",ANTV
 https://iptv33.000webhostapp.com/Vidio%20Antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TVONE
-https://etslive-2-vidio-com.akamaized.net/exp=1580951595~acl=/hls-p/ingest_783_*/*~hmac=951f587c9a7dd6ade14cb53ff375c02ebd292ebce3a6f49767ffada50cb70735/hls-p/ingest_783_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",METRO TV
-https://etslive-2-vidio-com.akamaized.net/exp=1580951657~acl=/hls-b/ingest_777_*/*~hmac=23ceb9f30c837a4cab9800e7ff5df69e413dc6e2b9b8d189132bfd77d61ae96f/hls-b/ingest_777_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20Metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO", BERITA SATU
-https://etslive-2-vidio-com.akamaized.net/exp=1580951747~acl=/hls-p/ingest_6165_*/*~hmac=a9cb7af853215d64aef757a44462d4a1e1356bfc1cd3d452f6f8bd8013728cdf/hls-p/ingest_6165_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20berita%20satu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",KOMPAS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1580951801~acl=/hls-b/ingest_874_*/*~hmac=d22a5b3a87f13542bbbacc1134269ca293da766bffe2bc8c4fbb02c75879e60d/hls-b/ingest_874_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20Kompas%20tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Ochannel
-https://etslive-2-vidio-com.akamaized.net/exp=1580926525~acl=/hls-b/ingest_206_*/*~hmac=69429b5666eaed491dde1060c18d086a869683d4aa70f414091d73c86de9d1a3/hls-b/ingest_206_720p/index.m3u8
+https://iptv33.000webhostapp.com/Vidio%20Ochannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Oshop
 https://iptv33.000webhostapp.com/Oshop.m3u8
