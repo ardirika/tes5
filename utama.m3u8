@@ -108,6 +108,15 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",RUANG TERAMPIL
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",MUSLIM TV
+https://anevia114.mncnow.id:443/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TV 9 NUSANTARA
+https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TV MUHAMMADIYAH
+https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_98800_eng=4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",RCTI
 https://raw.githubusercontent.com/ardirika/tes5/master/rcti.m3u8
 
@@ -231,21 +240,6 @@ https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_p
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Fashion TV Midnight Secrets
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b4700000.m3u8?hdnts=st=1580808769~exp=1580808889~acl=/i/*~hmac=815c15ca76ef97f4438a6ff9ff05a842628e132b7bd2c8d9774a9b6e25aeaf7e
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="CHINA",ANHUI TV
-https://anevia115.mncnow.id:443/live/eds/AnhuiTV/sa_hls/AnhuiTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="CHINA",JIANGSU TV
-https://anevia115.mncnow.id:443/live/eds/JiangsuTV/sa_hls/JiangsuTV-avc1_1000000=8-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="CHINA",HUNAN TV
-https://anevia115.mncnow.id:443/live/eds/HunanTV/sa_hls/HunanTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="CHINA",SHANGHAI DRAGON TV
-https://anevia114.mncnow.id:443/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="CHINA",XING KONG
-https://anevia115.mncnow.id:443/live/eds/XingKongTV/sa_hls/XingKongTV-avc1_1000000=11-mp4a_98800_eng=5.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",RCTI
 https://iptv33.000webhostapp.com/Hooq%20rcti.m3u8
 
@@ -341,15 +335,6 @@ https://iptv33.000webhostapp.com/Hooq%20Baeble%20Music%20-%20Concert.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Aljazeera
 https://iptv33.000webhostapp.com/Hooq%20Al%20Jazeera.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="RELIGI",MUSLIM TV
-https://anevia114.mncnow.id:443/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="RELIGI",TV 9 NUSANTARA
-https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="RELIGI",TV MUHAMMADIYAH
-https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_98800_eng=4.m3u8
 
 #EXTINF:-1 tvg-id="SABUNG AYAM" tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="KNOWLEDGE",SABUNG AYAM
 https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
@@ -555,6 +540,9 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_249996
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="MOVIES",THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="MOVIES",XING KONG
+https://anevia115.mncnow.id:443/live/eds/XingKongTV/sa_hls/XingKongTV-avc1_1000000=11-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="MOVIES",ZEE BIOSKOP
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
