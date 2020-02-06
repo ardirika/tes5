@@ -497,7 +497,6 @@ https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="MOVIES",FOX Movies Premium
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-#http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="MOVIES",FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
@@ -554,11 +553,10 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Champions tv 1
-https://dl.dropboxusercontent.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+https://iptv33.000webhostapp.com/Vidio%20Champions1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Champions tv 2
-#https://iptv86.000webhostapp.com/iptv
-https://dl.dropboxusercontent.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
+https://iptv33.000webhostapp.com/Vidio%20Champions2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
