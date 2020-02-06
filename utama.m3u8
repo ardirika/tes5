@@ -336,6 +336,9 @@ https://iptv33.000webhostapp.com/Hooq%20Baeble%20Music%20-%20Concert.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Aljazeera
 https://iptv33.000webhostapp.com/Hooq%20Al%20Jazeera.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="USEE",Antv
+https://iptv33.000webhostapp.com/Usee%20antv.m3u8
+
 #EXTINF:-1 tvg-id="SABUNG AYAM" tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="KNOWLEDGE",SABUNG AYAM
 https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
 
