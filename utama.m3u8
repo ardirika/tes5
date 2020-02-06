@@ -573,25 +573,31 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Star Sport 1
-http://tv.b4ucast.me/tv/vJ9lsiZFOE20190929/chunklist_w144422910_tkaGxzZW5kdGltZT0xNTgwOTY5MDQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NE5aQUFVLUk5endwa1RfSWVfRjhUb21GTnNOZ1Y2T3l1OXhTajRSQWFkbz0=.m3u8
+https://iptv33.000webhostapp.com/Star%20sport1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Star Sport 2
-http://tv.b4ucast.me/tv/IxpHvSNNXo20190929/chunklist_w1448105996_tkaGxzZW5kdGltZT0xNTgwOTY5MTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bjAyT0lFbHRCUnZoMGc2WEg4R1JSeDVhMXNKOEpKOTRVMmNhbjlFWWIzZz0=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Skay Sport
+https://iptv33.000webhostapp.com/Skay%20sport.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Nbc Sport
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=JWF3tRTChZm6SRsS3vuEcA&e=1580988457
+https://iptv33.000webhostapp.com/NBC%20sport.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 1
 https://raw.githubusercontent.com/ardirika/tes5/master/Bein%20sport%201.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 2
+https://iptv33.000webhostapp.com/Bein%20sport2%20Arab.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 3
 https://raw.githubusercontent.com/ardirika/tes5/master/bein%20sport.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 9
-https://raw.githubusercontent.com/ardirika/tes5/master/Bein%20sport%209.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 5
 https://raw.githubusercontent.com/ardirika/tes5/master/Bein%20sport5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 6
+https://iptv33.000webhostapp.com/Bein%20sport6%20Arab.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports Arb 9
+https://raw.githubusercontent.com/ardirika/tes5/master/Bein%20sport%209.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="SPORTS",Bein Sports 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
