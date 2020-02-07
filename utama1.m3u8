@@ -34,10 +34,10 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="TRANS TV" tvg-logo="https://i.postimg.cc/HkVHBx8k/images-4.jpg" group-title="INDONESIA TV",TRANS TV
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
+https://iptv33.000webhostapp.com/Hooq%20TransTV.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="TRANS 7 " tvg-logo="https://i.postimg.cc/76yrgXN4/images-7.jpg" group-title="INDONESIA TV",TRANS 7
-http://id2.indostreamingtv.com/live/trans7/index.m3u8
+https://iptv33.000webhostapp.com/Hooq%20Trans7.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="NET TV" tvg-logo="https://i.postimg.cc/y8YdR68j/images-16.jpg" group-title="INDONESIA TV",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -75,11 +75,11 @@ https://iptv33.000webhostapp.com/Vidio%20RTV.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="JAWAPOST TV" tvg-logo="https://i.postimg.cc/7hcLHTpb/unnamed-1.jpg" group-title="INDONESIA TV",JAWAPOST TV
 https://livetvhooq.akamaized.net:443/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573600053~exp=9007200828341044~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_2/chunklist.m3u8*~hmac=34668c3a5d65ee732b03c74c8c5fe7f2bd27db8a18a14541660649e8fae2dfc4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkGNWyS8/images_(17).jpg" group-title="INDONESIA TV",JTV SURABAYA
-https://iptv33.000webhostapp.com/Usee%20JTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkGNWyS8/images_(17).jpg" group-title="INDONESIA TV",JTV
+https://iptv33.000webhostapp.com/Hooq%20JTV.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="INDONESIA TV",JAKTV
-https://iptv33.000webhostapp.com/Vidio%20JAKTV.m3u8
+https://iptv33.000webhostapp.com/Hooq%20Jak%20tv.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="J'go" tvg-logo="https://i.postimg.cc/4x8wP4kw/images-25.jpg" group-title="INDONESIA TV",J'go
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
