@@ -1,64 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ardirika/tes5/master/IMG_20200205_080951.jpg" ,INTRO
-https://raw.githubusercontent.com:443/ardirika/tes5/master/intro.mp4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://iptv33.000webhostapp.com/Vidio%20rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",MNC
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",ANTV
-https://iptv33.000webhostapp.com/Antv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",INDOSIAR
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",NET TV
-https://iptv33.000webhostapp.com/Net%20tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",MNC TV
+https://raw.githubusercontent.com/ardirika/tes5/master/MNC%20tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",GTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+https://iptv33.000webhostapp.com/Vidio%20GTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TRANS 7
-https://iptv33.000webhostapp.com/Trans7%201.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",INDOSIAR
+https://iptv33.000webhostapp.com/Vidio%20Indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TV ONE
-https://iptv33.000webhostapp.com/Tvone1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",SCTV
+https://iptv33.000webhostapp.com/Vidio%20SCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TRANS TV
-https://iptv33.000webhostapp.com/Transtv.m3u8
+https://iptv33.000webhostapp.com/Vidio%20trans%20tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TRANS 7
+https://iptv33.000webhostapp.com/Vidio%20Trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",NET TV
+https://iptv33.000webhostapp.com/Vidio%20net%20tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",RTV
-https://iptv33.000webhostapp.com/Hooq%20RTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TVRI
-https://iptv33.000webhostapp.com/Tvri1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",BERITA SATU
-https://iptv33.000webhostapp.com/Berita%20satu.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",METRO TV
-https://iptv33.000webhostapp.com/Metro%20tv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",KOMPAS TV
-https://anevia115.mncnow.id:443/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+https://iptv33.000webhostapp.com/Vidio%20RTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",JAK TV
-https://anevia114.mncnow.id:443/live/eds/JakTV/sa_hls/JakTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
+https://iptv33.000webhostapp.com/Vidio%20JAKTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",JAWAPOS TV
-https://iptv33.000webhostapp.com/Hooq%20kompas%20tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",INEWS
+https://iptv33.000webhostapp.com/Vidio%20inews.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",JTV SURABAYA
-https://iptv33.000webhostapp.com/Jtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TVRI
+https://iptv33.000webhostapp.com/Vidio%20TVRI.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",ANTV
+https://iptv33.000webhostapp.com/Vidio%20Antv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TVONE
+https://iptv33.000webhostapp.com/Vidio%20tvone.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",METRO TV
+https://iptv33.000webhostapp.com/Vidio%20Metrotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA", BERITA SATU
+https://iptv33.000webhostapp.com/Vidio%20berita%20satu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",KOMPAS TV
+https://iptv33.000webhostapp.com/Vidio%20Kompas%20tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",Oshop
+https://iptv33.000webhostapp.com/Oshop.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",DAAI TV
+https://iptv33.000webhostapp.com/Daaitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",MyTV
+https://iptv33.000webhostapp.com/Mytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",Citra Drama
+https://iptv33.000webhostapp.com/Vidio%20citra%20drama.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",Citra Muslim
+https://iptv33.000webhostapp.com/Citra%20Muslim.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",Citra Bioskop
+https://iptv33.000webhostapp.com/Citra%20bioskop.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",Citra Dangdut
+https://iptv33.000webhostapp.com/Citra%20dangdut.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",Citra Entertainment
+https://iptv33.000webhostapp.com/Citra%20Entertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
@@ -116,241 +131,6 @@ https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9-avc1_1000000=7-mp4a_9880
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="INDONESIA",TV MUHAMMADIYAH
 https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_98800_eng=4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",RCTI
-https://iptv33.000webhostapp.com/Vidio%20rcti.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",MNC TV
-https://raw.githubusercontent.com/ardirika/tes5/master/MNC%20tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",GTV
-https://iptv33.000webhostapp.com/Vidio%20GTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",INDOSIAR
-https://iptv33.000webhostapp.com/Vidio%20Indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",SCTV
-https://iptv33.000webhostapp.com/Vidio%20SCTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TRANS TV
-https://iptv33.000webhostapp.com/Vidio%20trans%20tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TRANS 7
-https://iptv33.000webhostapp.com/Vidio%20Trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",NET TV
-https://iptv33.000webhostapp.com/Vidio%20net%20tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",RTV
-https://iptv33.000webhostapp.com/Vidio%20RTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",JAK TV
-https://iptv33.000webhostapp.com/Vidio%20JAKTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",INEWS
-https://iptv33.000webhostapp.com/Vidio%20inews.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TVRI
-https://iptv33.000webhostapp.com/Vidio%20TVRI.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",ANTV
-https://iptv33.000webhostapp.com/Vidio%20Antv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TVONE
-https://iptv33.000webhostapp.com/Vidio%20tvone.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",METRO TV
-https://iptv33.000webhostapp.com/Vidio%20Metrotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO", BERITA SATU
-https://iptv33.000webhostapp.com/Vidio%20berita%20satu.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",KOMPAS TV
-https://iptv33.000webhostapp.com/Vidio%20Kompas%20tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Oshop
-https://iptv33.000webhostapp.com/Oshop.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",DAAI TV
-https://iptv33.000webhostapp.com/Daaitv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",MyTV
-https://iptv33.000webhostapp.com/Mytv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Drama
-https://iptv33.000webhostapp.com/Vidio%20citra%20drama.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Muslim
-https://iptv33.000webhostapp.com/Citra%20Muslim.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Bioskop
-https://iptv33.000webhostapp.com/Citra%20bioskop.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Dangdut
-https://iptv33.000webhostapp.com/Citra%20dangdut.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Citra Entertainment
-https://iptv33.000webhostapp.com/Citra%20Entertainment.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",ZEE BIOSKOP
-https://iptv33.000webhostapp.com/Zee%20bioskop.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",ZING
-https://etslive-2-vidio-com.akamaized.net/exp=1580952912~acl=/hls-p/ingest_geo_6747_*/*~hmac=6eac4dda1b753b8a8b225d1d685273cabca99130ab43370af3830b4ace64ec7c/hls-p/ingest_geo_6747_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Zoomoo
-https://etslive-2-vidio-com.akamaized.net/exp=1580953340~acl=/hls-b/ingest_geo_6533_*/*~hmac=6da2c58bc487b9826b41e63906baa1e2aaca82d8572b6869f2e77436a2a1e941/hls-b/ingest_geo_6533_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Da Vinci
-https://etslive-2-vidio-com.akamaized.net/exp=1580953438~acl=/hls-p/ingest_geo_6549_*/*~hmac=f7ed690fd7fc0f0efa0493cbcbcb7c6512efcac8d9270a67e2bcc7b150f281b5/hls-p/ingest_geo_6549_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Horee
-https://etslive-2-vidio-com.akamaized.net/exp=1580953514~acl=/hls-p/ingest_geo_6397_*/*~hmac=c8e40c3c5b10ed1b061f345501ff7476cc2bb4bc56de594591bf33605955b5d9/hls-p/ingest_geo_6397_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Smithsonian
-https://etslive-2-vidio-com.akamaized.net/exp=1580953640~acl=/hls-p/ingest_geo_6550_*/*~hmac=a1cbafde0016ca2154ea4fee98678264dda07f6e6e8c5925dc25ea4104c2f151/hls-p/ingest_geo_6550_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Love Nature
-https://etslive-2-vidio-com.akamaized.net/exp=1580953738~acl=/hls-p/ingest_geo_6635_*/*~hmac=8f8e9082e59908de300e7e666e9bec6c048c4a5fd84398ab42f173cb858666a8/hls-p/ingest_geo_6635_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",TVN
-https://etslive-2-vidio-com.akamaized.net/exp=1580952409~acl=/hls-p/ingest_geo_6362_*/*~hmac=cbf8242ba8bb6c3b05ebf462c8130972a2fd791a0b68d7ae16738d359a855a07/hls-p/ingest_geo_6362_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",DW English
-https://etslive-2-vidio-com.akamaized.net/exp=1580889461~acl=/hls-p/ingest_5075_*/*~hmac=0ce9f67398b4a630f61def052cb726fe562d859b832d94ca0d41c3a5463a62f6/hls-p/ingest_5075_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",News Asia
-https://etslive-2-vidio-com.akamaized.net/exp=1580890184~acl=/hls-p/ingest_geo_6411_*/*~hmac=277e52c0b299a59d627f638aafcdb0ba1db9173d04cc43e320c36073cc72d8bc/hls-p/ingest_geo_6411_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Euro News
-https://etslive-2-vidio-com.akamaized.net/exp=1580953230~acl=/hls-b/ingest_geo_6412_*/*~hmac=2ebdde17389235ffb3f1e76affebcdd0879bee5e75d17a82ee32de2ad4cb3a6c/hls-b/ingest_geo_6412_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Aljazeera
-https://etslive-2-vidio-com.akamaized.net/exp=1580953043~acl=/hls-p/ingest_geo_6410_*/*~hmac=a96a14746956316b75dc294423f03b11af5f1775e9edcd145e2cf61a0f1ec640/hls-p/ingest_geo_6410_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",FashionTV L'Original
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8?hdnts=st=1580808575~exp=1580808695~acl=/i/*~hmac=7face8c71411c605f4d70c71a134eec526583fdd16d60a6d6a9266da118356d8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Fashion TV - Global
-https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b4700000.m3u8?hdnts=st=1580808680~exp=1580808800~acl=/i/*~hmac=ef23c054c69cc7d8b59cd750fce7434ea2d086fc664a1d0a0b52728325639d0d
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="VIDIO",Fashion TV Midnight Secrets
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b4700000.m3u8?hdnts=st=1580808769~exp=1580808889~acl=/i/*~hmac=815c15ca76ef97f4438a6ff9ff05a842628e132b7bd2c8d9774a9b6e25aeaf7e
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",RCTI
-https://iptv33.000webhostapp.com/Hooq%20rcti.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",MNCTV
-https://iptv33.000webhostapp.com/Hooq%20mnctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",GTV
-https://iptv33.000webhostapp.com/Hooq%20gtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",TRANS TV
-https://iptv33.000webhostapp.com/Hooq%20TransTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",TRANS 7
-https://iptv33.000webhostapp.com/Hooq%20Trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",JTV
-https://iptv33.000webhostapp.com/Hooq%20JTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",JAK TV
-https://iptv33.000webhostapp.com/Hooq%20Jak%20tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",JAWA POS TV
-https://iptv33.000webhostapp.com/Hooq%20Jawa%20pos-tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",MYTV
-https://iptv33.000webhostapp.com/Hooq%20mytv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",KOMPAS TV
-https://iptv33.000webhostapp.com/Hooq%20kompas%20tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",BERITA SATU
-https://iptv33.000webhostapp.com/Hooq%20Berita%20satu.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",TVONE
-https://iptv33.000webhostapp.com/Hooq%20tvOne.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",ZEE BIOSKOP
-https://iptv33.000webhostapp.com/Hooq%20zee-bioskop.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",K-DRAMA
-https://iptv33.000webhostapp.com/Hooq%20k-Drama.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",ARARING
-https://iptv33.000webhostapp.com/Hooq%20araring.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",FAIL ARMY
-https://iptv33.000webhostapp.com/Hooq%20Fail%20Army.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",People are Awesome
-https://iptv33.000webhostapp.com/Hooq%20People%20are%20Awesome.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",The Pet Collective
-https://iptv33.000webhostapp.com/Hooq%20The%20Pet%20Collective.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Sports Illustrated
-https://iptv33.000webhostapp.com/Hooq%20Sports%20Illustrated.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Qutdoor
-https://iptv33.000webhostapp.com/Hooq%20Qutdoor.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Ptv4
-https://iptv33.000webhostapp.com/Hooq%20ptv4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",My Recipes
-https://iptv33.000webhostapp.com/HOOQ%20Food%20-%20My%20Recipes.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Euro news
-https://iptv33.000webhostapp.com/Hooq%20Euronews.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Entertainment Weekly
-https://iptv33.000webhostapp.com/Hooq%20Entertainment%20Weekly.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",DW English
-https://iptv33.000webhostapp.com/Hooq%20DW%20English.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Cna
-https://iptv33.000webhostapp.com/Hooq%20cna.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Clubbing Tv
-https://iptv33.000webhostapp.com/Hooq%20clubbing-tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Buzz Feed Tasty
-https://iptv33.000webhostapp.com/Hooq%20BuzzFeed%20-%20Tasty.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Buzz Feed Nifty
-https://iptv33.000webhostapp.com/Hooq%20BuzzFeed%20-%20Nifty.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Baeble Music Session
-https://iptv33.000webhostapp.com/Hooq%20Baeble%20Music%20-%20Session.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Baeble Music Concert
-https://iptv33.000webhostapp.com/Hooq%20Baeble%20Music%20-%20Concert.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="HOOQ",Aljazeera
-https://iptv33.000webhostapp.com/Hooq%20Al%20Jazeera.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="USEE",Trans 7
-https://iptv33.000webhostapp.com/Usee%20trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="USEE",Trans Tv
-https://iptv33.000webhostapp.com/Usee%20Trans%20tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="USEE",Antv
-https://iptv33.000webhostapp.com/Usee%20antv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="USEE",Rtv
-https://iptv33.000webhostapp.com/Usee%20Rtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="USEE",Antara
-https://iptv33.000webhostapp.com/Usee%20antra.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="USEE",Net tv
-https://iptv33.000webhostapp.com/Usee%20nettv.m3u8
 
 #EXTINF:-1 tvg-id="SABUNG AYAM" tvg-logo="https://i.postimg.cc/4d1dkvhZ/download.jpg" group-title="KNOWLEDGE",SABUNG AYAM
 https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
