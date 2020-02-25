@@ -418,19 +418,19 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="J'go" tvg-logo="https://i.postimg.cc/4x8wP4kw/images-25.jpg" group-title="MOVIE TV",J'go
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Tv" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",Zee Tv
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Tv" tvg-logo="https://i.postimg.cc/qRmw0bC7/images_(3).jpg" group-title="MOVIE TV",Zee Tv
 https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",Zee Cinema
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/NFMNHqwT/images_(1).png" group-title="MOVIE TV",Zee Cinema
 https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP 1" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",ZEE BIOSKOP 1
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP 1" tvg-logo="https://i.postimg.cc/sDCGMRWH/download_(1).jpg" group-title="MOVIE TV",ZEE BIOSKOP 1
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP 2" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",ZEE BIOSKOP 2
 https://iptv33.000webhostapp.com/Hooq%20zee-bioskop.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="ZING" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",Zing
+#EXTINF:-1 tvg-ID="" tvg-name="ZING" tvg-logo="https://i.postimg.cc/N0sRM8t2/images_(4).jpg" group-title="MOVIE TV",Zing
 https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="SINEMA INDONESIA" tvg-logo="https://i.postimg.cc/rFXc0Yq9/images.png" group-title="MOVIE TV",SINEMA INDONESIA
