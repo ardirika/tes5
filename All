@@ -100,27 +100,6 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w2146882825.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/4dbkwt89/images-8.jpg" group-title="INDONESIA TV",JAKTV
 https://anevia114.mncnow.id:443/live/eds/JakTV/sa_hls/JakTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="J'go" tvg-logo="https://i.postimg.cc/4x8wP4kw/images-25.jpg" group-title="INDONESIA TV",J'go
-http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Tv" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="INDONESIA TV",Zee Tv
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="INDONESIA TV",Zee Cinema
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP 1" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="INDONESIA TV",ZEE BIOSKOP 1
-https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP 2" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="INDONESIA TV",ZEE BIOSKOP 2
-https://iptv33.000webhostapp.com/Hooq%20zee-bioskop.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="ZING" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="INDONESIA TV",Zing
-https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="SINEMA INDONESIA" tvg-logo="https://i.postimg.cc/rFXc0Yq9/images.png" group-title="INDONESIA TV",SINEMA INDONESIA
-http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="Dunia Lain" tvg-logo="#https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="INDONESIA TV",Dunia Lain
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/230.ts
 
@@ -435,6 +414,27 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CLFsxtkN/hk.png" group-title="NEWS TV",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="J'go" tvg-logo="https://i.postimg.cc/4x8wP4kw/images-25.jpg" group-title="MOVIE TV",J'go
+http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Tv" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",Zee Tv
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",Zee Cinema
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP 1" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",ZEE BIOSKOP 1
+https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP 2" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",ZEE BIOSKOP 2
+https://iptv33.000webhostapp.com/Hooq%20zee-bioskop.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ZING" tvg-logo="https://i.postimg.cc/PqQ2R4jT/Ub-A6-K2-Wj-400x400.jpg" group-title="MOVIE TV",Zing
+https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA INDONESIA" tvg-logo="https://i.postimg.cc/rFXc0Yq9/images.png" group-title="MOVIE TV",SINEMA INDONESIA
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/FKMwf5YJ/images-2.jpg" group-title="MOVIE TV",FOX Movies
 https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
