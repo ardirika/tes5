@@ -1,0 +1,1230 @@
+<html lang="en">
+ <head> 
+  <!-- Google Tag Manager --> 
+  <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PVR485G');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta charset="utf-8"> 
+  <title>ดูทีวี - ช่องBEIN SPORT HD 1</title> 
+  <meta name="keywords" content="ดูทีวีBEIN SPORT HD 1"> 
+  <meta name="description" content="BEIN SPORT HD 1"> 
+  <meta name="viewport" content="width=1150, shrink-to-fit=yes"> 
+  <!-- Favicons --> 
+  <link rel="icon" type="image/x-icon" href="https://www.doomovie-hd.com/assets/img/favicon/favicon.ico"> 
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-57x57.png"> 
+  <link rel="apple-touch-icon" sizes="60x60" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-60x60.png"> 
+  <link rel="apple-touch-icon" sizes="72x72" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-72x72.png"> 
+  <link rel="apple-touch-icon" sizes="76x76" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-76x76.png"> 
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-114x114.png"> 
+  <link rel="apple-touch-icon" sizes="120x120" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-120x120.png"> 
+  <link rel="apple-touch-icon" sizes="144x144" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-144x144.png"> 
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-152x152.png"> 
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.doomovie-hd.com/assets/img/favicon/apple-icon-180x180.png"> 
+  <link rel="icon" type="image/png" sizes="192x192" href="https://www.doomovie-hd.com/assets/img/favicon/android-icon-192x192.png"> 
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.doomovie-hd.com/assets/img/favicon/favicon-32x32.png"> 
+  <link rel="icon" type="image/png" sizes="96x96" href="https://www.doomovie-hd.com/assets/img/favicon/favicon-96x96.png"> 
+  <link rel="icon" type="image/png" sizes="16x16" href="https://www.doomovie-hd.com/assets/img/favicon/favicon-16x16.png"> 
+  <link rel="manifest" href="https://www.doomovie-hd.com/assets/img/favicon/manifest.json"> 
+  <meta name="msapplication-TileColor" content="#ffffff"> 
+  <meta name="msapplication-TileImage" content="assets/img/favicon/ms-icon-144x144.png"> 
+  <meta name="theme-color" content="#ffffff"> 
+  <!-- CSS & Scripts --> 
+  <link rel="stylesheet" href="https://www.doomovie-hd.com/assets/css/bootstrap.min.css"> 
+  <link rel="stylesheet" href="https://www.doomovie-hd.com/assets/css/template.css"> 
+  <link rel="stylesheet" href="https://www.doomovie-hd.com/assets/lib/jquery-ui-1.12.1.custom/jquery-ui.min.css"> 
+  <style>
+        .grecaptcha-badge {opacity:0 !important;}
+    </style> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <!-- --> 
+  <link rel="stylesheet" href="https://vjs.zencdn.net/7.6.0/video-js.css"> 
+  <link rel="stylesheet" href="https://www.doomovie-hd.com/assets/css/tv-channel-list.css"> 
+  <link rel="stylesheet" href="https://www.doomovie-hd.com/assets/css/tv-view.css"> 
+  <!-- --> 
+  <!--<script type="text/javascript">
+        var selected_lang = "th";
+        var liveDotAnimIn = false;
+        var liveDotAnimElm = null;
+        function liveDotAnim()
+        {
+            if (liveDotAnimElm === null)
+                liveDotAnimElm = $(".live-dot");
+            liveDotAnimIn = !liveDotAnimIn;
+            if (liveDotAnimIn)
+                liveDotAnimElm.fadeIn(850, function () {liveDotAnim();});
+            else
+                liveDotAnimElm.fadeOut(850, function () {liveDotAnim();});
+        }
+
+        function initMobileNavMenu() {
+            var html = "<a class=\"dropdown-item\" href=\"./\">🏠 หน้าหลัก</a>";
+             html += "<a class=\"dropdown-item\" href=\"javascript:switchLang();\"><img src='assets/img/flag_thailand.png' width='40' height='40' alt='th'/></a>";
+            html += $("#nav-bar_non-mobile-menu").html();
+            $("#nav-bar_mobile-menu").html( html );
+        }
+
+        function updateContentBodySize()
+        {
+            var bannerSpaceSize = (80) * 2;
+            var screenWidth = $(window).width();
+            if (screenWidth > 1024)
+                $(".content-body").width(screenWidth - bannerSpaceSize);
+            else
+                $(".content-body").width(screenWidth);
+        }
+
+        $(window).resize(function() {
+            updateContentBodySize();
+            if (typeof(page_js_onresize) === "function")
+                page_js_onresize();
+        });
+
+        $(document).ready(function() {
+            initMobileNavMenu();
+            liveDotAnim();
+            if (typeof(page_js_init) === "function")
+                page_js_init();
+
+            setTimeout(function () {
+                updateContentBodySize();
+            }, 100);
+
+            if (typeof(movieWallEnabled) !== "undefined") {
+                var o = $("body");
+                if ($(document).height() < 4000) {
+                    o.removeClass("wall_movie_long");
+                    o.addClass("wall_movie_short");
+                } else {
+                    o.removeClass("wall_movie_short");
+                    o.addClass("wall_movie_long");
+                }
+            }
+
+            if (window.innerWidth <= 420) {
+                $("#left-side-ad").hide();
+            }
+
+            /*****************************************************
+             * Redirect a smart-tv device to the smart-tv mode
+             *****************************************************/
+             if (ew.deviceLab.getDeviceType() === ew.deviceLab.deviceTypeType.SmartDevice ||
+                 ew.deviceLab.getDeviceType() === ew.deviceLab.deviceTypeType.Unknown ||
+                 ew.deviceLab.getDeviceOs() === ew.deviceLab.deviceOsType.Linux) {
+                 var a = window.location.href.split("/");
+                 var url = "";
+                 for (var i = 0; i < a.length; i++) {
+                     if (url.length > 0)
+                         url += "/";
+                     if (i === 2) {
+                        url += "smart-tv.doomovie-hd.com";
+                     } else {
+                         url += a[i];
+                     }
+                 }
+                 window.location.href = url;
+             }
+        });
+
+        /**
+         * Lang system
+         */
+        var selLang = "th";
+        function updateLangSelUI()
+        {
+            var tb = $("#lang-sel-btn_th");
+            var eb = $("#lang-sel-btn_en");
+            if (selLang === "th")
+            {
+                tb.removeClass("btn-outline-secondary");
+                tb.addClass("btn-success");
+                eb.removeClass("btn-success");
+                eb.addClass("btn-outline-secondary");
+            }
+            else // selLang === "en"
+            {
+                eb.removeClass("btn-outline-secondary");
+                eb.addClass("btn-success");
+                tb.removeClass("btn-success");
+                tb.addClass("btn-outline-secondary");
+            }
+        }
+
+        function switchLang()
+        {
+            updateLangSelUI();
+            $("#change-lang-dialog").modal();
+        }
+
+        function langBtnClick(index)
+        {
+            if (index === 0) // Thai
+                selLang = "th";
+            else // English
+                selLang = "en";
+            updateLangSelUI();
+        }
+
+        function langSaveBtnClick()
+        {
+            $.cookie("lang", selLang);
+            window.location.reload();
+        }
+
+        function search_onSubmit() {
+            if ($(document).width() <= 1024) {
+                $("#search-dialog").modal();
+                return false;
+            } else {
+                return true;
+            }
+        }
+
+        function hideFloatingAd(obj) {
+            $(obj.parentNode).fadeOut();
+        }
+
+        var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform);
+        if (iOS) {
+            $(document).on('click touchend', function(event) {
+                $("#back-to-top-btn").css({"-webkit-overflow-scrolling":"touch"});
+            });
+        }
+
+    </script>--> 
+  <link rel="preload" as="script" href="https://www.googletagmanager.com/gtag/js?id=UA-145341641-2">
+  <link rel="preload" as="script" href="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v5.0" crossorigin="anonymous">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/tv-view-2.js">
+  <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/videojs-http-source-selector@latest/dist/videojs-http-source-selector.js">
+  <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/videojs-contrib-quality-levels@latest/dist/videojs-contrib-quality-levels.min.js">
+  <link rel="preload" as="script" href="https://cdn.streamroot.io/videojs-hlsjs-plugin/1/stable/videojs-hlsjs-plugin.js">
+  <link rel="preload" as="script" href="https://vjs.zencdn.net/7.6.0/video.js">
+  <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js">
+  <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/hls.js@latest">
+  <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js">
+  <link rel="preload" as="script" href="https://www.google.com/recaptcha/api.js?render=6Lcm98MUAAAAAKZO1eN-wuzBfTHq-kuYBwwWIWkm">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/contact-admin-form.js">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/contact-form-message.js">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/easy-world.js">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/bootstrap-notify.min.js">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/bootstrap.min.js">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/popper.min.js">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/lib/jquery-ui-1.12.1.custom/jquery-ui.min.js">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/jquery.cookie.js">
+  <link rel="preload" as="script" href="https://www.doomovie-hd.com/assets/js/jquery-3.3.1.min.js">
+ </head>
+ <body class="wall_movie_long"> 
+  <!-- facebook--> 
+  <div id="fb-root"></div> 
+  <!-- --> 
+  <!-- floting ads--> 
+  <div class="floating_ads_bt-mid_container"> 
+   <a href="https://www.sagame168th.com/?utm_source=Doomovie&amp;utm_medium=BannerMv3&amp;utm_campaign=sagamefre100" target="_blank"> <script type="text/javascript" style="display:none">
+//<![CDATA[
+window.__mirage2 = {petok:"de764029aebc937b937dc27c925b0e9855e51b7a-1587853934-1800"};
+//]]>
+</script> <img data-cfsrc="https://www.doomovie-hd.com/assets/img/banner-new/banner-GIF-sagame_2frame.gif" width="728" height="90" alt="" src="https://www.doomovie-hd.com/assets/img/banner-new/banner-GIF-sagame_2frame.gif"> </a> 
+   <button type="button" style="color:red !important; font-size:30px !important; background: none !important; border: none !important; float: right; width: 30px; height: 30px; position:relative; top:-100px;" onclick="if (!window.__cfRLUnblockHandlers) return false; hideFloatingAd(this);"> <span aria-hidden="true">×</span> </button> 
+  </div> 
+  <button id="back-to-top-btn" class="btn btn-outline-dark" style="position:fixed; bottom:30px; right:30px; z-index: 999999;" onclick="if (!window.__cfRLUnblockHandlers) return false; ew.scrollTo($('.nav-bar'))">▲</button> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVR485G" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <header> 
+   <nav> 
+    <div class="nav-bar clearfix"> 
+     <div class="nav-bar_content"> 
+      <ul> 
+       <li><a href="./"><img data-cfsrc="https://www.doomovie-hd.com/assets/img/dmhd.png" alt="logo" width="101" height="48" data-cfstyle="position:relative; top:2px;" style="position:relative; top:2px;" src="https://www.doomovie-hd.com/assets/img/dmhd.png"></a></li> 
+       <li><a href="./" style="color:white !important;">หน้าหลัก</a></li> 
+       <li> 
+        <div class="dropdown show"> 
+         <a class="btn btn-secondary dropdown-toggle btn-sm" style="background: #101010 !important; border: none !important; height:40px !important;" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 🎬 หมวดหมู่ </a> 
+         <div id="nav-bar_non-mobile-menu" class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="color:black !important;"> 
+          <a class="dropdown-item" href="./?r=movie&amp;cate=1">🎬 หนังชนโรง</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=3">🎬 Netflix</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=4">🎬 Ultra HD 4K</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=34">🎬 หนังเกาหลี</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=12">🎬 ซีรี่ย์เกาหลี</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=2">🎬 หนังฝรั่ง</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=13">🎬 ซีรี่ย์ฝรั่ง</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=8">🎬 หนังจีน</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=14">🎬 ซีรี่ย์จีน</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=6">🎬 หนังไทย</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=11">🎬 ซีรี่ย์ไทย</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=35">🎬 หนังญี่ปุ่น</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=15">🎬 ซีรี่ย์ญี่ปุ่น</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=37">🎬 หนังอินเดีย</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=16">🎬 ซีรี่ย์อินเดีย</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=9">🎬 หนังการ์ตูน</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=17">🎬 ซีรี่ย์การ์ตูน</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=33">🎬 Sport Highlight</a>
+          <a class="dropdown-item" href="./?r=movie&amp;cate=38">🎬 หนังเก่า ย้อนยุค</a> 
+         </div> 
+        </div> </li> 
+      </ul> 
+      <!-- Mobile devices nav Begin --> 
+      <div class="dropdown show mobile-nav"> 
+       <a class="btn btn-secondary dropdown-toggle" style="background: #101010 !important; border: none !important; line-height: 1.8em !important; font-size: 20px !important;" href="#" role="button" id="dropdownMenuLink2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 📰 </a> 
+       <div id="nav-bar_mobile-menu" class="dropdown-menu" aria-labelledby="dropdownMenuLink2" style="color:black !important;"> 
+       </div> 
+      </div> 
+      <a href="./?r=livetv_schedule"> 
+       <div class="ext-nav-button float-left h-100 pl-2 pr-2 text-decoration-none">
+        <img data-cfsrc="https://www.doomovie-hd.com/assets/img/football-ball.png" width="20" height="20" alt="" src="https://www.doomovie-hd.com/assets/img/football-ball.png">&nbsp;ดูบอลสด
+       </div> </a> 
+      <a href="./?r=live_tv"> 
+       <div class="ext-nav-button float-left h-100 pl-2 pr-2 text-decoration-none">
+        <span class="live-dot" style="color:red; font-weight: bold;">•&nbsp;</span>ทีวีสด
+       </div> </a> 
+      <!-- Mobile devices nav End --> 
+      <div class="nav-bar_search-container clearfix"> 
+       <form action="./" method="get" onsubmit="if (!window.__cfRLUnblockHandlers) return false; return search_onSubmit();"> 
+        <input type="hidden" name="r" value="search"> 
+        <div class="nav-bar_search-lang-switch">
+         <a href="javascript:switchLang();"><img data-cfsrc="assets/img/flag_thailand.png" width="40" height="40" alt="th" src="https://www.doomovie-hd.com/assets/img/flag_thailand.png"></a>
+        </div> 
+        <div class="nav-bar_search-input">
+         <input id="search-input_textbox" type="text" name="name" class="form-control" placeholder="ชื่อหนังที่จะหา">
+        </div> 
+        <div class="nav-bar_search-btn">
+         <button class="btn btn-secondary" type="submit">🔎</button>
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+    <div style="width:100%; height:1px; background:#282828;"></div> 
+   </nav> 
+   <!-- Search dialog --> 
+   <div id="search-dialog" class="modal" tabindex="-1" role="dialog"> 
+    <div class="modal-dialog" role="document"> 
+     <div class="modal-content"> 
+      <div class="modal-header"> 
+       <h5 class="modal-title">Search</h5> 
+       <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button> 
+      </div> 
+      <form action="./" method="get"> 
+       <div class="modal-body"> 
+        <input type="hidden" name="r" value="search"> 
+        <input type="text" name="name" class="form-control" placeholder="ชื่อหนังที่จะหา"> 
+       </div> 
+       <div class="modal-footer"> 
+        <button type="submit" class="btn btn-primary">🔎</button> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- Change language dialog --> 
+   <div id="change-lang-dialog" class="modal" tabindex="-1" role="dialog"> 
+    <div class="modal-dialog" role="document"> 
+     <div class="modal-content"> 
+      <div class="modal-header"> 
+       <h5 class="modal-title">Select language</h5> 
+       <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button> 
+      </div> 
+      <div class="modal-body"> 
+       <button id="lang-sel-btn_th" type="button" onclick="if (!window.__cfRLUnblockHandlers) return false; langBtnClick(0);" class="btn btn-outline-secondary"><img data-cfsrc="https://www.doomovie-hd.com/assets/img/flag_thailand.png" width="40" height="40" alt="" src="https://www.doomovie-hd.com/assets/img/flag_thailand.png">&nbsp;&nbsp;<strong>Thai</strong></button> 
+       <button id="lang-sel-btn_en" type="button" onclick="if (!window.__cfRLUnblockHandlers) return false; langBtnClick(1);" class="btn btn-outline-secondary"><img data-cfsrc="https://www.doomovie-hd.com/assets/img/flag_usa.png" width="40" height="40" alt="" src="https://www.doomovie-hd.com/assets/img/flag_usa.png">&nbsp;&nbsp;<strong>English</strong></button> 
+      </div> 
+      <div class="modal-footer"> 
+       <button type="button" class="btn btn-primary" onclick="if (!window.__cfRLUnblockHandlers) return false; langSaveBtnClick();">Save</button> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </header> 
+  <!--Content of the page--> 
+  <main> 
+   <div class="content clearfix"> 
+    <div class="horizontal-ad-bar"> 
+     <a href="https://slotxoauto.com/?utm_source=doomovie&amp;utm_medium=banner&amp;utm_campaign=xoauto" target="_blank"> <img data-cfsrc="https://www.doomovie-hd.com/assets/img/banner-new/728x90-A.gif" width="728" height="90" alt="" src="https://www.doomovie-hd.com/assets/img/banner-new/728x90-A.gif"> </a> 
+     <br> 
+     <br> 
+     <a href="https://www.pussy888fun.com/?utm_source=doomovie&amp;utm_medium=banner&amp;utm_campaign=p888fun" target="_blank"> <img data-cfsrc="https://www.doomovie-hd.com/assets/img/banner-new/MV6.gif" width="728" height="90" alt="" src="https://www.doomovie-hd.com/assets/img/banner-new/MV6.gif"> </a> 
+     <br> 
+     <br> 
+     <a href="https://www.slotxo24hr.com/?utm_source=doomovie&amp;utm_medium=banner&amp;utm_campaign=xo24hr" target="_blank"> <img data-cfsrc="https://www.doomovie-hd.com/assets/img/banner-new/728x90-C.gif" width="728" height="90" alt="" src="https://www.doomovie-hd.com/assets/img/banner-new/728x90-C.gif"> </a> 
+    </div> 
+    <br style="clear: both;"> 
+    <div class="clearfix"> 
+     <div id="left-side-ad" style="float:left; width: 80px; min-height: 100px; height: 100%;"> 
+      <!--<img src="assets/img/banner-208x667.png" width="208" height="667" alt="ad"/>--> 
+     </div> 
+     <div class="content-body">
+      <style>
+                    .wall_movie_long {background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url(wall//08.jpg); background-size: contain !important;}
+                    .wall_movie_short {background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url(wall//08.jpg); background-size: cover !important; }
+                    </style>
+      <!-- -->
+      <!--<script type="text/javascript">
+    var playerHint = "W3sibmFtZSI6IkxpbmsxIiwidXJsIjoiaHR0cHM6Ly93d3cubGl2ZWRvb21vdmllcy5jb20vMDJfZXBsMV83MjBwL2NodW5rbGlzdC5tM3U4In1d";
+    var chId = 18;
+</script>--> 
+      <nav aria-label="breadcrumb" id="tv-scroll-dest"> 
+       <ol class="breadcrumb"> 
+        <li class="breadcrumb-item" aria-current="page">BEIN SPORT HD 1</li> 
+       </ol> 
+      </nav> 
+      <div id="tv-player" class="clearfix align-middle mb-2"> 
+       <table class="w-100 h-100" style="min-height: 512px;"> 
+        <tbody>
+         <tr>
+          <td colspan="3"></td>
+         </tr> 
+         <tr> 
+          <td></td> 
+          <td>
+           <div class="spinner-border text-primary" role="status" style="width: 100px; height: 100px;"> 
+            <span class="sr-only">Loading...</span> 
+           </div></td> 
+          <td></td> 
+         </tr> 
+         <tr>
+          <td colspan="3"></td>
+         </tr> 
+        </tbody>
+       </table> 
+      </div> 
+      <!--
+    <div class="alert alert-dismissible alert-danger">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <strong>ขออภัยในความไม่สะดวก</strong> <a href="#" class="alert-link">ทางเราปิดปรับปรุงช่องทีวีสด ชั่วคราวจะกลับมาปกติภายในไม่เกิน 24 ชม </a> เพื่อทำการพัฒนาระบบให้ดียิ้งขึ้น
+    </div>
+--> 
+      <div class="horizontal-ad-bar"> 
+       <a href="https://www.joker123th.com/?utm_source=doomovie&amp;utm_medium=banner&amp;utm_campaign=joker123" target="_blank" rel="nofollow"> <img data-cfsrc="https://www.doomovie-hd.com/assets/img/banner-new/TV1.gif" width="728" height="90" alt="" src="https://www.doomovie-hd.com/assets/img/banner-new/TV1.gif"> </a> 
+       <br> 
+       <br> 
+       <a href="https://www.joker123auto.com/?utm_source=doomovie&amp;utm_medium=banner&amp;utm_campaign=jokerauto" target="_blank" rel="nofollow"> <img data-cfsrc="https://www.doomovie-hd.com/assets/img/banner-new/TV2.gif" width="728" height="90" alt="" src="https://www.doomovie-hd.com/assets/img/banner-new/TV2.gif"> </a> 
+      </div> 
+      <br>
+      <br> 
+      <div id="tv-QualityList"></div> 
+      <br> 
+      <div id="tv-log"></div> 
+      <style>
+    #chart_container {
+        position: relative;
+        margin: 3em auto;
+        padding-left: 20px;
+        max-width: 100%;
+    }
+
+    #y_axis {
+        position: absolute;
+        top: 0;
+        width: 40px;
+        left: -20px;
+    }
+
+    #y_axis > svg {
+        overflow: visible;
+    }
+
+    #legend {
+        position: absolute;
+        top: 20px;
+        left: 40px;
+        z-index: 1;
+    }
+
+    #legend-totals {
+        position: absolute;
+        bottom: 20px;
+        left: 40px;
+        z-index: 1;
+    }
+</style> 
+      <br> 
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">ทีวีดิจิตอล</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=1" title="ช่อง 3 HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-ch3.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=2" title="ช่อง 5 HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-ch5.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=3" title="ช่อง 7 HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-ch7.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=4" title="ช่อง 8 HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-ch8.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch8.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=5" title="MCOT HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-mcot.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=6" title="NBT HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-nbt.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=7" title="THAI PBS HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tpbs.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=8" title="ไทยรัฐ TV HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-thairath.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=9" title="PPTV HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-pptv.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=10" title="AMARIN HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-amarin.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=11" title="GMM CHANNEL HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-gmmchannel.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=12" title="GMM ONE HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-gmmone.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=15" title="WORK POINT HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-workpoint.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=16" title="MCOT FAMILY"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-mcotfamily.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-mcotfamily.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=61" title="TNN 24"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-tnn24.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=63" title="MONO29 HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-mono.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mono.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=64" title="NATION TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-nation.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=66" title="NOW TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-now.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-now.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=67" title="NEW)TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-new.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-new.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=68" title="TRUE4U"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-24u.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-24u.png"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">กีฬา</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=18" title="BEIN SPORT HD 1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/epl-bein1.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=19" title="BEIN SPORT HD 2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/epl-bein2.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=22" title="TRUE SPORT HD1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tsport1.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=23" title="TRUE SPORT HD2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tsport2.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=24" title="TRUE SPORT HD3"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tsport3.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=25" title="NBA HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-nba.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=26" title="TENNIS HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tennis.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=27" title="GOLF CHANNEL HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-golf.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=28" title="FOX SPORT HD1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxsports1.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=29" title="FOX SPORT 2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-foxsports2.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=30" title="FOX SPORT 3"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-foxsports3.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=31" title="TRUE SPORT 2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-tsport2.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=32" title="TRUE SPORT 5"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-tsport5.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=33" title="TRUE SPORT 6"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-tsport6.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=60" title="TRUE SPORT 7"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-tsport7.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=116" title="TRUE SPORT HD4"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tsport4.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=151" title="Premier Football HD 1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/doomovie-epl1.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=152" title="Premier Football HD 2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/doomovie-epl2.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=153" title="Premier Football HD 3"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/doomovie-epl3.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=154" title="Premier Football HD 4"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/doomovie-epl4.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=155" title="Premier Football HD 5"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/doomovie-epl5.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=159" title="NFL Network"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/nfl-network.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/nfl-network.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=188" title="SMM TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/SMMTV.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/SMMTV.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=189" title="T Sports Channel"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/TSportsChannel.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">สารคดี</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=46" title="TRUE EXPLORE LIFE"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-explife.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-explife.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=47" title="TRUE EXPLORE SCI"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-expsci.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-expsci.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=48" title="TRUE EXPLORE WILD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-expwild.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-expwild.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=49" title="NET GEO WILD HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-natgeowild.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=50" title="NET GEO WILD HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-natgeowild.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=51" title="NET PEOPLE HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-natgeopeople.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=52" title="BBC EARTH HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-bbcearth.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=53" title="BBC LIFESTYLE HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-bbclifestyle.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=54" title="FYI TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-fyi.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fyi.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=55" title="ANIMALPLANET"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-animalplanet.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-animalplanet.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=56" title="Discovery Channel"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-discovery.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=57" title="DISCOVERY HD WORLD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-discovery.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=58" title="HISTORY2 HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-history2.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=59" title="HISTORY HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-history.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=114" title="Science Channel"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-discoveryscience.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=117" title="NETIONAL GEO HD EN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-natgeo.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=118" title="NETIONAL GEO HD THAI"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-natgeo.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=129" title="MYSCI HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-mysci.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=130" title="สำรวจโลก"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-samrujlok.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">ภาพยนต์</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=34" title="WARNER TV HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-warnertv.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=35" title="AXN HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-axn.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=36" title="FOX ACTION TH"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxaction.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=37" title="FOX ACTION EN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxaction.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=38" title="FOX MOVIES PREMIUM EN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxpremium.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=39" title="FOX MOVIES PREMIUM TH"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxpremium.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=40" title="FX Thailand"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-fx.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-fx.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=41" title="HBO HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-hbo.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=43" title="HBOHit HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-hbohits.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=44" title="HBOSignature HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-hbosignature.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=45" title="RedbyHBO HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-screenred.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=89" title="True Series"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-series.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-series.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=90" title="Moviehis"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-moviehits.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-moviehits.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=91" title="Ture ThaiFiam"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-thaifilm.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaifilm.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=92" title="Ture FiamAsia"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-filmasia.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-filmasia.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=93" title="Asia Series"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-asianseries.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-asianseries.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=94" title="ASIAN HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-asian.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-asian.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=95" title="TFILM HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tfilm.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=96" title="XZYTE HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-xzyte.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-xzyte.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=98" title="COMEDY CENTRAL"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-comedycentral.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-comedycentral.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=99" title="CELESTIAL CLASSIC"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-celestial.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-celestial.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=100" title="TVN HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tvn.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=119" title="FoxCrimeHD TH"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxcrime.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=120" title="FoxCrimeHD EN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxcrime.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=123" title="FOX THAI EN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-fox.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=124" title="FOX THAI"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-fox.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=125" title="FOX FAMILY HD THAI"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxfamily.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=126" title="FOX FAMILY HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-foxfamily.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=127" title="TRUE FILM HD1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tfilm.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=128" title="TRUE FILM HD2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-tfilm.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=208" title="มังกร"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/MANGORN.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=209" title="หนังดัง"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/NHANG_DUNK.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/NHANG_DUNK.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=210" title="MONO Plus"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/MONO_Plus.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/MONO_Plus.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=213" title="FOX Life HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/02_FOX_Life_HD_720p.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=219" title="Thrill"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Thrill.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=221" title="Star Chinese Movies Legend HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/SCM.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/SCM.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=222" title="CCM"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/CCM.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/CCM.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=226" title="Zee หนัง"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/ZeeNung.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeNung.png"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">เพลง</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=42" title="FAN TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-fantv.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=101" title="TRUE MUSIC"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-tmusic.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tmusic.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=107" title="MTV MUSIC"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-mtvchina.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-mtvchina.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=108" title="V CHANNEL"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-chvinter.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-chvinter.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=109" title="MTV ASIA"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-mtvasia.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-mtvasia.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=110" title="MTV LIVE HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-mtvlive.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mtvlive.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=196" title="Sabaidee TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/SabaideeTV.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/SabaideeTV.png"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">รายการเด็ก</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=83" title="SPARK JUMP"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-sparkjump.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkjump.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=84" title="CARTOON NETWORK"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-cartoonnetwork.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=85" title="DISNEY"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-disney.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=86" title="DISNEY XD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/DISNEYXD.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=190" title="Cartoon Club"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/CartoonClub.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=191" title="Boomerang"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Boomerang.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=192" title="Baby TV HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/BabyTVHD.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/BabyTVHD.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=193" title="Miao Mi"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/MiaoMi.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/MiaoMi.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=194" title="Nick Jr TH"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Nick_Jr.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Nick_Jr.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=195" title="Nick Jr EN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Nick_Jr.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Nick_Jr.png"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">ต่างประเทศ</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=75" title="SKYNET SPORT 6"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-skynetsports6.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=76" title="SKYNET SPORT 5"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-skynetsports5.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=77" title="SKYNET SPORT 4"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-skynetsports4.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=78" title="SKYNET SPORT 3"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-skynetsports3.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=79" title="SKYNET SPORT 2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-skynetsports2.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=80" title="SKYNET SPORT 1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-skynetsports1.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=81" title="SKYNET SPORT HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-skynetsportshd.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=139" title="Sport TV 1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-sporttv1.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=140" title="Sport TV 2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-sporttv2.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=141" title="Sport TV 3"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-sporttv3.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=142" title="Sport TV 4"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-sporttv4.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=143" title="Sport TV 5"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-sporttv5.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=156" title="BT SPORT HD1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/uk-btsport1.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=157" title="BT SPORT HD2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/uk-btsport2.jpg" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">ข่าว</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=102" title="CNN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/hd-cnn.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/hd-cnn.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=103" title="DW"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-deutschewelle.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-deutschewelle.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=104" title="FRANCE24"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-france24.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-france24.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=105" title="CCTV NEWS"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-cctvnews.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cctvnews.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=106" title="CCTV 4"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/sd-cctv.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cctv.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=199" title="ฟ้าวันใหม่"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/bluesky.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/bluesky.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=200" title="NEWS1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/NEWS1.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/NEWS1.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=201" title="Euro News"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Euronews.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Euronews.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=202" title="Al Jazeera English"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Al_Jazeera_En.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=203" title="Al Jazeera Arabic"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Al_Jazeera_En.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=204" title="Sky News HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Sky_News.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Sky_News.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=205" title="Fox News TH"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Fox_News_TH.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Fox_News_TH.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=206" title="NHK WORLD TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/NHK_WORLD_TV.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/NHK_WORLD_TV.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=207" title="RT TV HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/RT_TV.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/RT_TV.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=223" title="CCTV9"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/CCTV9.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/CCTV9.png"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">บันเทิง</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=88" title="TPTV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/TPTVLOGO.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/TPTVLOGO.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=131" title="OShopping"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/OShopping.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/OShopping.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=132" title="MChannel"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/m-channel.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/m-channel.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=133" title="JKN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/JKN.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=134" title="MixMajor"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/MixMajor.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/MixMajor.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=135" title="CH2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/CH2.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/CH2.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=137" title="DaraDaily"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/DaraDaily.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/DaraDaily.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=138" title="TGN"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/TGN.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/TGN.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=197" title="True Shopping"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/True_Shopping.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/True_Shopping.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=198" title="True Select"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/True_Select.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/True_Select.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=211" title="Star K"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Star_K.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Star_K.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=212" title="Wish Channel"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Wish_Channel.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Wish_Channel.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=214" title="Comedy HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Comedy_HD.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Comedy_HD.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=215" title="Star Chinese Channel HD"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/SCC_HD.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/SCC_HD.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=216" title="Arirang"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Arirang.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Arirang.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=217" title="Fashion TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Fashion_TV.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Fashion_TV.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=218" title="KIX Thailand"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/KIX_Thailand.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/KIX_Thailand.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=220" title="WION TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/WION.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/WION.png"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">อินเดีย</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=160" title="Zee News"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/znews.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/znews.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=161" title="Zee Business"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/zBusiness.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/zBusiness.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=162" title="STAR BHARAT"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/STAR_BHARAT.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/STAR_BHARAT.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=163" title="Star Utsav"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/StarUtsav.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/StarUtsav.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=164" title="Star Plus"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Star_Plus.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Star_Plus.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=165" title="Zee TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/ztv-LOGO.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/ztv-LOGO.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=166" title="AND TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/ANDTV.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/ANDTV.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=167" title="Zing"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Zing.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Zing.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=168" title="Star Gold"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/Star_Gold.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/Star_Gold.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=169" title="Zee Cinema"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/ZeeCinema.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeCinema.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=170" title="Zee Bolly Wood"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/ZeeClassic.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeClassic.png"> </a> 
+       </div> 
+      </div>
+      <div class="tv-cate clearfix w-100"> 
+       <br>
+       <br> 
+       <nav aria-label="breadcrumb"> 
+        <ol class="breadcrumb"> 
+         <li class="breadcrumb-item" aria-current="page">การศึกษา</li> 
+        </ol> 
+       </nav> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=171" title="DLTV 1"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-01.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-01.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=172" title="DLTV 2"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-02.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-02.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=173" title="DLTV 3"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-03.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-03.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=174" title="DLTV 4"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-04.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-04.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=175" title="DLTV 5"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-05.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-05.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=176" title="DLTV 6"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-06.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-06.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=177" title="DLTV 7"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-07.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-07.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=178" title="DLTV 8"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-08.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-08.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=179" title="DLTV 9"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-09.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-09.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=180" title="DLTV 10"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-10.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-10.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=181" title="DLTV 11"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-11.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-11.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=182" title="DLTV 12"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-12.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-12.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=183" title="DLTV 13"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-13.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-13.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=184" title="DLTV 14"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-14.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-14.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=185" title="DLTV 15"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/logo-channel-15.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-15.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=186" title="ETV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/ETV.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/ETV.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=224" title="White Channel"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/White_Channel.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/White_Channel.png"> </a> 
+       </div> 
+       <div class="tv-ch"> 
+        <a href="./?r=tv_view&amp;id=225" title="YATEEM TV"> <img class="rounded-lg" data-cfsrc="assets/img/ch_logo/YATEEM_TV.png" width="100%" height="100%" alt="" src="https://www.doomovie-hd.com/assets/img/ch_logo/YATEEM_TV.png"> </a> 
+       </div> 
+      </div> 
+     </div> 
+     <!--<div class="side-ad-bar">
+        <img src="assets/img/banner-208x667.png" width="208" height="667" alt="ad"/>
+    </div>--> 
+    </div> 
+   </div> 
+  </main> 
+  <br style="clear:both;"> 
+  <div class="horizontal-ad-bar"> 
+   <!-- Footer Ad area --> 
+  </div> 
+  <!--Footer of the page--> 
+  <footer> 
+   <div id="facebook-container"> 
+   </div> 
+   <br> 
+   <div class="footer"> 
+    <div class="footer_content"> 
+     <h2><strong>ดูหนังออนไลน์ หนังใหม่ คมชัดระดับ HD ฟรี!!</strong></h2> 
+     <strong>DooMovie-HD</strong> เว็บ
+     <strong>ดูหนังออนไลน์</strong> มีทั้งหนังเก่า 
+     <em>หนังใหม่</em> ให้คุณได้เลือกชมได้ฟรีทุกวันตลอด 24 ชั่วโมง ทั้งหนังไทย หนังจีน หนังฝรั่ง การ์ตูนอนิเมชั่น และหนังอื่นๆอีกมากมาย เรารวบรวมหนังเก่าตั้งแต่ 10 ปีที่แล้ว+ มาจนถึงหนังใหม่ล่าสุดที่เพิ่งออกไม่กี่วันหรือที่นิยมเรียกันกว่า
+     <em>หนังชนโรง</em>นั่นเอง 
+     <strong>ทีวีออนไลน์ ทีวีสด ดูบอลออนไลน์</strong>เราก็มีให้รับชมได้ฟรีเช่นกัน ทั้งทีวีช่องทั่วไป ช่องข่าว ช่องบันเทิง ช่องกีฬา มากมายหลากหลายรายการ รวมทั้งการถ่ายทอดกีฬาสด ฟุตบอลสด เราก็มีให้ท่านรับชมได้อย่างเพลิดเพลิน เว็บของเรารองรับทุกอุปกรณ์ทั้งคอมพิวเตอร์ มือถือ android iphone แท็บเล็ต smart tv และอุปกรณ์อื่นๆทุกประเภท 
+     <a href="https://www.warpfootball.com"><img data-cfsrc="https://www.warpfootball.com/wp-content/uploads/img/logo warp-150x38.png" src="https://www.warpfootball.com/wp-content/uploads/img/logo%20warp-150x38.png"></a> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- Global site tag (gtag.js) - Google Analytics --> 
+  <!-- --> 
+  <!--<script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-145341641-2');
+    </script>--> 
+  <!--<script type="text/javascript">
+        var showAdContactDialogDialog = null;
+        var movieRequestDialog = null;
+    function showAdContactDialog() {
+        $.notify({message: 'พื้นที่โฆษณาถูกจองหมดแล้ว'},{type: 'warning', delay: 30000});
+            }
+
+    function submitMovieRequest() {
+        var text = $("#movie_request_text").val();
+        if (text.length < 10) {
+            $.notify({message: 'ข้อความสั้นเกินไป'},{type: 'danger', delay: 30000});
+            return;
+        }
+        if (text.length > 1000) {
+            $.notify({message: 'ข้อความยาวเกินไป'},{type: 'danger', delay: 30000});
+            return;
+        }
+
+        ew.ajax.post("./?r=ajax", {"do":"submit_movie_request", "msg": text}, function(e) {
+            if (e.result !== "success") {
+                $.notify({message: 'Connection error'},{type: 'danger', delay: 30000});
+                return;
+            }
+            $.notify({message: 'ส่งคำขอเรียบร้อย'},{type: 'success', delay: 30000});
+            ew.dialogs.destroy(movieRequestDialog);
+        });
+    }
+
+    function showMovieRequestDialog() {
+        var content = "<textarea id='movie_request_text' class=\"form-control\" rows=\"8\"></textarea>";
+        content += "<br/><div class=\"alert alert-dark\" role=\"alert\">" +
+            " *หลังจากที่ส่งคำขอแล้วในบางครั้งอาจใช้เวลาหลายวันกว่าทีมงานจะอัพเรื่องที่ท่านต้องการ กรุณาอย่าส่งคำขอหนังเรื่องเดิมๆซ้ำหลายครั้ง\n" +
+            "</div>";
+        content += "<button id='ad_rqmov_bn' type=\"button\" class=\"btn btn-success\" onclick='submitMovieRequest();'>ส่งคำขอ</button>";
+        movieRequestDialog = ew.dialogs.create(true, true, "ขอหนัง: โปรดพิมพ์รายชื่อหนังที่ต้องการ", content, false);
+    }
+
+    /**
+     * FACEBOOK
+     */
+    function embedFacebookMobile() {
+        var width = (window.innerWidth <= 420)?300:428;
+        var height = 350;
+        var code = "<div class='m-auto' style='width:" + width + "px; height:" + height + "px'><iframe width='" + width + "' height='" + height + "' frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" src='https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/D00moviehd/&tabs=messages&width=" +  width+ "&height=" + height + "&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true'></iframe></div>";
+        $("#facebook-container").html(code);
+    }
+
+    ew.events.addHandler("page_loaded", function () {
+        //embedFacebookMobile();
+    });
+
+    </script>--> 
+ </body>
+</html>
